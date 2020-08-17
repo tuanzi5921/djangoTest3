@@ -1,0 +1,506 @@
+[
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "校招",
+    "channel_bili": 0.4202,
+    "name": "校招",
+    "value": 0.4202
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "社招",
+    "channel_bili": 0.2325,
+    "name": "社招",
+    "value": 0.2325
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "用人单位直投",
+    "channel_bili": 0.0953,
+    "name": "用人单位直投",
+    "value": 0.0953
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "亲友内推",
+    "channel_bili": 0.0918,
+    "name": "亲友内推",
+    "value": 0.0918
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "政府渠道",
+    "channel_bili": 0.0739,
+    "name": "政府渠道",
+    "value": 0.0739
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "新媒体",
+    "channel_bili": 0.0580,
+    "name": "新媒体",
+    "value": 0.0580
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "channel": "其他",
+    "channel_bili": 0.0283,
+    "name": "其他",
+    "value": 0.0283
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "校招",
+    "channel_bili": 0.5343,
+    "name": "校招",
+    "value": 0.5343
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "社招",
+    "channel_bili": 0.1137,
+    "name": "社招",
+    "value": 0.1137
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "用人单位直投",
+    "channel_bili": 0.1044,
+    "name": "用人单位直投",
+    "value": 0.1044
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "亲友内推",
+    "channel_bili": 0.0899,
+    "name": "亲友内推",
+    "value": 0.0899
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "政府渠道",
+    "channel_bili": 0.0753,
+    "name": "政府渠道",
+    "value": 0.0753
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "新媒体",
+    "channel_bili": 0.0613,
+    "name": "新媒体",
+    "value": 0.0613
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "channel": "其他",
+    "channel_bili": 0.0211,
+    "name": "其他",
+    "value": 0.0211
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "校招",
+    "channel_bili": 0.0000,
+    "name": "校招",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "社招",
+    "channel_bili": 0.0000,
+    "name": "社招",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "用人单位直投",
+    "channel_bili": 0.0000,
+    "name": "用人单位直投",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "亲友内推",
+    "channel_bili": 0.0000,
+    "name": "亲友内推",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "政府渠道",
+    "channel_bili": 0.0000,
+    "name": "政府渠道",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "新媒体",
+    "channel_bili": 0.0000,
+    "name": "新媒体",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "channel": "其他",
+    "channel_bili": 0.0000,
+    "name": "其他",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "校招",
+    "channel_bili": 0.0000,
+    "name": "校招",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "社招",
+    "channel_bili": 0.0000,
+    "name": "社招",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "用人单位直投",
+    "channel_bili": 0.0000,
+    "name": "用人单位直投",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "亲友内推",
+    "channel_bili": 0.0000,
+    "name": "亲友内推",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "政府渠道",
+    "channel_bili": 0.0000,
+    "name": "政府渠道",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "新媒体",
+    "channel_bili": 0.0000,
+    "name": "新媒体",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "channel": "其他",
+    "channel_bili": 0.0000,
+    "name": "其他",
+    "value": 0.0000
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "校园渠道",
+    "channel_bili": 0.4722,
+    "name": "校园渠道",
+    "value": 0.4722
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "用人单位自设渠道",
+    "channel_bili": 0.2346,
+    "name": "用人单位自设渠道",
+    "value": 0.2346
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "社会渠道",
+    "channel_bili": 0.1081,
+    "name": "社会渠道",
+    "value": 0.1081
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "政府渠道",
+    "channel_bili": 0.0709,
+    "name": "政府渠道",
+    "value": 0.0709
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "亲友渠道",
+    "channel_bili": 0.0593,
+    "name": "亲友渠道",
+    "value": 0.0593
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "新媒体",
+    "channel_bili": 0.0318,
+    "name": "新媒体",
+    "value": 0.0318
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "channel": "其他",
+    "channel_bili": 0.0231,
+    "name": "其他",
+    "value": 0.0231
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "校园渠道",
+    "channel_bili": 0.4543,
+    "name": "校园渠道",
+    "value": 0.4543
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "用人单位自设渠道",
+    "channel_bili": 0.0895,
+    "name": "用人单位自设渠道",
+    "value": 0.0895
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "社会渠道",
+    "channel_bili": 0.0933,
+    "name": "社会渠道",
+    "value": 0.0933
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "政府渠道",
+    "channel_bili": 0.0971,
+    "name": "政府渠道",
+    "value": 0.0971
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "亲友渠道",
+    "channel_bili": 0.0877,
+    "name": "亲友渠道",
+    "value": 0.0877
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "新媒体",
+    "channel_bili": 0.1206,
+    "name": "新媒体",
+    "value": 0.1206
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "channel": "其他",
+    "channel_bili": 0.0575,
+    "name": "其他",
+    "value": 0.0575
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "校园渠道",
+    "channel_bili": 0.2885,
+    "name": "校园渠道",
+    "value": 0.2885
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "用人单位自设渠道",
+    "channel_bili": 0.1430,
+    "name": "用人单位自设渠道",
+    "value": 0.1430
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "社会渠道",
+    "channel_bili": 0.2548,
+    "name": "社会渠道",
+    "value": 0.2548
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "政府渠道",
+    "channel_bili": 0.1214,
+    "name": "政府渠道",
+    "value": 0.1214
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "亲友渠道",
+    "channel_bili": 0.1100,
+    "name": "亲友渠道",
+    "value": 0.1100
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "新媒体",
+    "channel_bili": 0.0649,
+    "name": "新媒体",
+    "value": 0.0649
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "channel": "其他",
+    "channel_bili": 0.0174,
+    "name": "其他",
+    "value": 0.0174
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "校园渠道",
+    "channel_bili": 0.2914,
+    "name": "校园渠道",
+    "value": 0.2914
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "用人单位自设渠道",
+    "channel_bili": 0.2335,
+    "name": "用人单位自设渠道",
+    "value": 0.2335
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "社会渠道",
+    "channel_bili": 0.2368,
+    "name": "社会渠道",
+    "value": 0.2368
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "政府渠道",
+    "channel_bili": 0.2072,
+    "name": "政府渠道",
+    "value": 0.2072
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "亲友渠道",
+    "channel_bili": 0.1314,
+    "name": "亲友渠道",
+    "value": 0.1314
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "新媒体",
+    "channel_bili": 0.1897,
+    "name": "新媒体",
+    "value": 0.1897
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "channel": "其他",
+    "channel_bili": 0.0325,
+    "name": "其他",
+    "value": 0.0325
+  }
+]

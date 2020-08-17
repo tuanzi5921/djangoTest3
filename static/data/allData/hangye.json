@@ -1,0 +1,3682 @@
+[
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "信息传输、软件和信息技术服务业 ",
+    "number": 573,
+    "bili": 0.2160,
+    "name": "信息传输、软件和信息技术服务业 ",
+    "value": 0.2160
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "制造业",
+    "number": 571,
+    "bili": 0.2152,
+    "name": "制造业",
+    "value": 0.2152
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "批发和零售业",
+    "number": 264,
+    "bili": 0.0995,
+    "name": "批发和零售业",
+    "value": 0.0995
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "建筑业",
+    "number": 202,
+    "bili": 0.0761,
+    "name": "建筑业",
+    "value": 0.0761
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "文化、体育和娱乐业 ",
+    "number": 202,
+    "bili": 0.0761,
+    "name": "文化、体育和娱乐业 ",
+    "value": 0.0761
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "教育",
+    "number": 143,
+    "bili": 0.0539,
+    "name": "教育",
+    "value": 0.0539
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "交通运输、仓储和邮政业 ",
+    "number": 113,
+    "bili": 0.0426,
+    "name": "交通运输、仓储和邮政业 ",
+    "value": 0.0426
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "科学研究和技术服务业 ",
+    "number": 88,
+    "bili": 0.0332,
+    "name": "科学研究和技术服务业 ",
+    "value": 0.0332
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "居民服务、修理和其他服务业 ",
+    "number": 79,
+    "bili": 0.0298,
+    "name": "居民服务、修理和其他服务业 ",
+    "value": 0.0298
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 74,
+    "bili": 0.0279,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0279
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "租赁和商务服务业",
+    "number": 71,
+    "bili": 0.0268,
+    "name": "租赁和商务服务业",
+    "value": 0.0268
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "金融业",
+    "number": 59,
+    "bili": 0.0222,
+    "name": "金融业",
+    "value": 0.0222
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "房地产业",
+    "number": 56,
+    "bili": 0.0211,
+    "name": "房地产业",
+    "value": 0.0211
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "hangye": "其他",
+    "number": 158,
+    "bili": 0.0596,
+    "name": "其他",
+    "value": 0.0596
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "制造业 ",
+    "number": 639,
+    "bili": 0.2371,
+    "name": "制造业 ",
+    "value": 0.2371
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "信息传输、软件和信息技术服务业 ",
+    "number": 562,
+    "bili": 0.2085,
+    "name": "信息传输、软件和信息技术服务业 ",
+    "value": 0.2085
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "文化、体育和娱乐业 ",
+    "number": 257,
+    "bili": 0.0954,
+    "name": "文化、体育和娱乐业 ",
+    "value": 0.0954
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "批发和零售业 ",
+    "number": 228,
+    "bili": 0.0846,
+    "name": "批发和零售业 ",
+    "value": 0.0846
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "建筑业 ",
+    "number": 175,
+    "bili": 0.0649,
+    "name": "建筑业 ",
+    "value": 0.0649
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "教育 ",
+    "number": 126,
+    "bili": 0.0468,
+    "name": "教育 ",
+    "value": 0.0468
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "租赁和商务服务业 ",
+    "number": 86,
+    "bili": 0.0319,
+    "name": "租赁和商务服务业 ",
+    "value": 0.0319
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "科学研究和技术服务业 ",
+    "number": 86,
+    "bili": 0.0319,
+    "name": "科学研究和技术服务业 ",
+    "value": 0.0319
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "交通运输、仓储和邮政业 ",
+    "number": 76,
+    "bili": 0.0282,
+    "name": "交通运输、仓储和邮政业 ",
+    "value": 0.0282
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "居民服务、修理和其他服务业 ",
+    "number": 75,
+    "bili": 0.0278,
+    "name": "居民服务、修理和其他服务业 ",
+    "value": 0.0278
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 73,
+    "bili": 0.0271,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0271
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "农、林、牧、渔业 ",
+    "number": 65,
+    "bili": 0.0241,
+    "name": "农、林、牧、渔业 ",
+    "value": 0.0241
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "金融业 ",
+    "number": 55,
+    "bili": 0.0204,
+    "name": "金融业 ",
+    "value": 0.0204
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "公共管理、社会保障和社会组织 ",
+    "number": 41,
+    "bili": 0.0152,
+    "name": "公共管理、社会保障和社会组织 ",
+    "value": 0.0152
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "房地产业 ",
+    "number": 40,
+    "bili": 0.0148,
+    "name": "房地产业 ",
+    "value": 0.0148
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "水利、环境和公共设施管理业 ",
+    "number": 37,
+    "bili": 0.0137,
+    "name": "水利、环境和公共设施管理业 ",
+    "value": 0.0137
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "住宿和餐饮业 ",
+    "number": 36,
+    "bili": 0.0134,
+    "name": "住宿和餐饮业 ",
+    "value": 0.0134
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "卫生和社会工作 ",
+    "number": 33,
+    "bili": 0.0122,
+    "name": "卫生和社会工作 ",
+    "value": 0.0122
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "hangye": "采矿业 ",
+    "number": 5,
+    "bili": 0.0019,
+    "name": "采矿业 ",
+    "value": 0.0019
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "制造业",
+    "number": 1039,
+    "bili": 0.3501,
+    "name": "制造业",
+    "value": 0.3501
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 739,
+    "bili": 0.2490,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.2490
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 131,
+    "bili": 0.0441,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0441
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "文化、体育和娱乐业",
+    "number": 120,
+    "bili": 0.0404,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0404
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "批发和零售业",
+    "number": 102,
+    "bili": 0.0344,
+    "name": "批发和零售业",
+    "value": 0.0344
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "教育",
+    "number": 96,
+    "bili": 0.0323,
+    "name": "教育",
+    "value": 0.0323
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "科学研究和技术服务业",
+    "number": 94,
+    "bili": 0.0317,
+    "name": "科学研究和技术服务业",
+    "value": 0.0317
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "金融业",
+    "number": 86,
+    "bili": 0.0290,
+    "name": "金融业",
+    "value": 0.0290
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 80,
+    "bili": 0.0270,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0270
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "租赁和商务服务业",
+    "number": 80,
+    "bili": 0.0270,
+    "name": "租赁和商务服务业",
+    "value": 0.0270
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "建筑业",
+    "number": 75,
+    "bili": 0.0253,
+    "name": "建筑业",
+    "value": 0.0253
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "房地产业",
+    "number": 74,
+    "bili": 0.0249,
+    "name": "房地产业",
+    "value": 0.0249
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 54,
+    "bili": 0.0182,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0182
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "住宿和餐饮业",
+    "number": 46,
+    "bili": 0.0155,
+    "name": "住宿和餐饮业",
+    "value": 0.0155
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 40,
+    "bili": 0.0135,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0135
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "农、林、牧、渔业",
+    "number": 38,
+    "bili": 0.0128,
+    "name": "农、林、牧、渔业",
+    "value": 0.0128
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "卫生和社会工作",
+    "number": 34,
+    "bili": 0.0115,
+    "name": "卫生和社会工作",
+    "value": 0.0115
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 32,
+    "bili": 0.0108,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0108
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "hangye": "采矿业",
+    "number": 8,
+    "bili": 0.0027,
+    "name": "采矿业",
+    "value": 0.0027
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "制造业",
+    "number": 218,
+    "bili": 0.2184,
+    "name": "制造业",
+    "value": 0.2184
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "建筑业",
+    "number": 112,
+    "bili": 0.1120,
+    "name": "建筑业",
+    "value": 0.1120
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "卫生和社会工作",
+    "number": 94,
+    "bili": 0.0937,
+    "name": "卫生和社会工作",
+    "value": 0.0937
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 69,
+    "bili": 0.0691,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.0691
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "房地产业",
+    "number": 67,
+    "bili": 0.0667,
+    "name": "房地产业",
+    "value": 0.0667
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "教育",
+    "number": 64,
+    "bili": 0.0643,
+    "name": "教育",
+    "value": 0.0643
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "金融业",
+    "number": 61,
+    "bili": 0.0612,
+    "name": "金融业",
+    "value": 0.0612
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "文化、体育和娱乐业",
+    "number": 60,
+    "bili": 0.0604,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0604
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 52,
+    "bili": 0.0524,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0524
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "科学研究和技术服务业",
+    "number": 41,
+    "bili": 0.0413,
+    "name": "科学研究和技术服务业",
+    "value": 0.0413
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "批发和零售业",
+    "number": 41,
+    "bili": 0.0405,
+    "name": "批发和零售业",
+    "value": 0.0405
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "农、林、牧、渔业",
+    "number": 37,
+    "bili": 0.0365,
+    "name": "农、林、牧、渔业",
+    "value": 0.0365
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 17,
+    "bili": 0.0167,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0167
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 16,
+    "bili": 0.0159,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0159
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 15,
+    "bili": 0.0151,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0151
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "租赁和商业服务业",
+    "number": 10,
+    "bili": 0.0103,
+    "name": "租赁和商业服务业",
+    "value": 0.0103
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 10,
+    "bili": 0.0103,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0103
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "住宿和餐饮业",
+    "number": 7,
+    "bili": 0.0071,
+    "name": "住宿和餐饮业",
+    "value": 0.0071
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "军队",
+    "number": 5,
+    "bili": 0.0048,
+    "name": "军队",
+    "value": 0.0048
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "hangye": "采矿业",
+    "number": 3,
+    "bili": 0.0032,
+    "name": "采矿业",
+    "value": 0.0032
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "制造业",
+    "number": 887,
+    "bili": 0.2807,
+    "name": "制造业",
+    "value": 0.2807
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 350,
+    "bili": 0.1107,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1107
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "金融业",
+    "number": 242,
+    "bili": 0.0765,
+    "name": "金融业",
+    "value": 0.0765
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "教育",
+    "number": 234,
+    "bili": 0.0740,
+    "name": "教育",
+    "value": 0.0740
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "建筑业",
+    "number": 232,
+    "bili": 0.0734,
+    "name": "建筑业",
+    "value": 0.0734
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "卫生和社会工作",
+    "number": 222,
+    "bili": 0.0702,
+    "name": "卫生和社会工作",
+    "value": 0.0702
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "科学研究和技术服务业",
+    "number": 164,
+    "bili": 0.0519,
+    "name": "科学研究和技术服务业",
+    "value": 0.0519
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "农、林、牧、渔业",
+    "number": 150,
+    "bili": 0.0474,
+    "name": "农、林、牧、渔业",
+    "value": 0.0474
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "批发和零售业",
+    "number": 122,
+    "bili": 0.0386,
+    "name": "批发和零售业",
+    "value": 0.0386
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 92,
+    "bili": 0.0291,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0291
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 82,
+    "bili": 0.0259,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0259
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "文化、体育和娱乐业",
+    "number": 78,
+    "bili": 0.0247,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0247
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "房地产业",
+    "number": 74,
+    "bili": 0.0234,
+    "name": "房地产业",
+    "value": 0.0234
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 56,
+    "bili": 0.0177,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0177
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 48,
+    "bili": 0.0152,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0152
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "租赁和商业服务业",
+    "number": 44,
+    "bili": 0.0139,
+    "name": "租赁和商业服务业",
+    "value": 0.0139
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 40,
+    "bili": 0.0127,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0127
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "住宿和餐饮业",
+    "number": 30,
+    "bili": 0.0095,
+    "name": "住宿和餐饮业",
+    "value": 0.0095
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "采矿业",
+    "number": 8,
+    "bili": 0.0025,
+    "name": "采矿业",
+    "value": 0.0025
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "军队",
+    "number": 4,
+    "bili": 0.0013,
+    "name": "军队",
+    "value": 0.0013
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "hangye": "国际组织",
+    "number": 2,
+    "bili": 0.0006,
+    "name": "国际组织",
+    "value": 0.0006
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "制造业",
+    "number": 3354,
+    "bili": 0.3727,
+    "name": "制造业",
+    "value": 0.3727
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 1187,
+    "bili": 0.1319,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1319
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "卫生和社会工作",
+    "number": 615,
+    "bili": 0.0683,
+    "name": "卫生和社会工作",
+    "value": 0.0683
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "农、林、牧、渔业",
+    "number": 568,
+    "bili": 0.0631,
+    "name": "农、林、牧、渔业",
+    "value": 0.0631
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "建筑业",
+    "number": 448,
+    "bili": 0.0498,
+    "name": "建筑业",
+    "value": 0.0498
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "批发和零售业",
+    "number": 432,
+    "bili": 0.0480,
+    "name": "批发和零售业",
+    "value": 0.0480
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 409,
+    "bili": 0.0454,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0454
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "租赁和商务服务业",
+    "number": 346,
+    "bili": 0.0384,
+    "name": "租赁和商务服务业",
+    "value": 0.0384
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 240,
+    "bili": 0.0267,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0267
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "hangye": "文化、体育和娱乐业",
+    "number": 239,
+    "bili": 0.0265,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0265
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "教育",
+    "number": 496,
+    "bili": 0.2480,
+    "name": "教育",
+    "value": 0.2480
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 322,
+    "bili": 0.1612,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1612
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 205,
+    "bili": 0.1026,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.1026
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "卫生和社会工作",
+    "number": 155,
+    "bili": 0.0776,
+    "name": "卫生和社会工作",
+    "value": 0.0776
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "文化、体育和娱乐业",
+    "number": 110,
+    "bili": 0.0552,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0552
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "制造业",
+    "number": 104,
+    "bili": 0.0520,
+    "name": "制造业",
+    "value": 0.0520
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "建筑业",
+    "number": 99,
+    "bili": 0.0494,
+    "name": "建筑业",
+    "value": 0.0494
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "金融业",
+    "number": 97,
+    "bili": 0.0487,
+    "name": "金融业",
+    "value": 0.0487
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 86,
+    "bili": 0.0431,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0431
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "租赁和商务服务业",
+    "number": 81,
+    "bili": 0.0405,
+    "name": "租赁和商务服务业",
+    "value": 0.0405
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "批发和零售业",
+    "number": 60,
+    "bili": 0.0298,
+    "name": "批发和零售业",
+    "value": 0.0298
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "科学研究和技术服务业",
+    "number": 54,
+    "bili": 0.0268,
+    "name": "科学研究和技术服务业",
+    "value": 0.0268
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "房地产业",
+    "number": 32,
+    "bili": 0.0161,
+    "name": "房地产业",
+    "value": 0.0161
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 29,
+    "bili": 0.0144,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0144
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "住宿和餐饮业",
+    "number": 27,
+    "bili": 0.0136,
+    "name": "住宿和餐饮业",
+    "value": 0.0136
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 14,
+    "bili": 0.0068,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0068
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "农、林、牧、渔业",
+    "number": 9,
+    "bili": 0.0045,
+    "name": "农、林、牧、渔业",
+    "value": 0.0045
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 9,
+    "bili": 0.0043,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0043
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "采矿业",
+    "number": 5,
+    "bili": 0.0027,
+    "name": "采矿业",
+    "value": 0.0027
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "hangye": "军队",
+    "number": 5,
+    "bili": 0.0027,
+    "name": "军队",
+    "value": 0.0027
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "教育",
+    "number": 571,
+    "bili": 0.2855,
+    "name": "教育",
+    "value": 0.2855
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 301,
+    "bili": 0.1505,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1505
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "金融业",
+    "number": 183,
+    "bili": 0.0914,
+    "name": "金融业",
+    "value": 0.0914
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "卫生和社会工作",
+    "number": 137,
+    "bili": 0.0687,
+    "name": "卫生和社会工作",
+    "value": 0.0687
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 122,
+    "bili": 0.0611,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0611
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "建筑业",
+    "number": 117,
+    "bili": 0.0584,
+    "name": "建筑业",
+    "value": 0.0584
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "文化、体育和娱乐业",
+    "number": 116,
+    "bili": 0.0581,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0581
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "科学研究和技术服务业",
+    "number": 85,
+    "bili": 0.0423,
+    "name": "科学研究和技术服务业",
+    "value": 0.0423
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "制造业",
+    "number": 79,
+    "bili": 0.0395,
+    "name": "制造业",
+    "value": 0.0395
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "房地产业",
+    "number": 59,
+    "bili": 0.0295,
+    "name": "房地产业",
+    "value": 0.0295
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "批发和零售业",
+    "number": 48,
+    "bili": 0.0240,
+    "name": "批发和零售业",
+    "value": 0.0240
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 36,
+    "bili": 0.0179,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0179
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "租赁和商务服务业",
+    "number": 29,
+    "bili": 0.0144,
+    "name": "租赁和商务服务业",
+    "value": 0.0144
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "住宿和餐饮业",
+    "number": 24,
+    "bili": 0.0120,
+    "name": "住宿和餐饮业",
+    "value": 0.0120
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 23,
+    "bili": 0.0113,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0113
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "农、林、牧、渔业",
+    "number": 21,
+    "bili": 0.0103,
+    "name": "农、林、牧、渔业",
+    "value": 0.0103
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 19,
+    "bili": 0.0093,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0093
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 13,
+    "bili": 0.0065,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0065
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "采矿业",
+    "number": 10,
+    "bili": 0.0052,
+    "name": "采矿业",
+    "value": 0.0052
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "军队",
+    "number": 8,
+    "bili": 0.0038,
+    "name": "军队",
+    "value": 0.0038
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "hangye": "国际组织",
+    "number": 1,
+    "bili": 0.0003,
+    "name": "国际组织",
+    "value": 0.0003
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "制造业",
+    "number": 1258,
+    "bili": 0.2236,
+    "name": "制造业",
+    "value": 0.2236
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 890,
+    "bili": 0.1582,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1582
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "建筑业",
+    "number": 756,
+    "bili": 0.1344,
+    "name": "建筑业",
+    "value": 0.1344
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "批发和零售业",
+    "number": 519,
+    "bili": 0.0923,
+    "name": "批发和零售业",
+    "value": 0.0923
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "农、林、牧、渔业",
+    "number": 353,
+    "bili": 0.0628,
+    "name": "农、林、牧、渔业",
+    "value": 0.0628
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "租赁和商务服务业",
+    "number": 268,
+    "bili": 0.0476,
+    "name": "租赁和商务服务业",
+    "value": 0.0476
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 137,
+    "bili": 0.0244,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0244
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "金融业",
+    "number": 181,
+    "bili": 0.0322,
+    "name": "金融业",
+    "value": 0.0322
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "文化、体育和娱乐业",
+    "number": 244,
+    "bili": 0.0434,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0434
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "科学研究和技术服务业",
+    "number": 202,
+    "bili": 0.0359,
+    "name": "科学研究和技术服务业",
+    "value": 0.0359
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 93,
+    "bili": 0.0165,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0165
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "教育",
+    "number": 306,
+    "bili": 0.0544,
+    "name": "教育",
+    "value": 0.0544
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 174,
+    "bili": 0.0309,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0309
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 66,
+    "bili": 0.0117,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0117
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "房地产业",
+    "number": 103,
+    "bili": 0.0183,
+    "name": "房地产业",
+    "value": 0.0183
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "住宿和餐饮业",
+    "number": 58,
+    "bili": 0.0103,
+    "name": "住宿和餐饮业",
+    "value": 0.0103
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "卫生和社会工作",
+    "number": 24,
+    "bili": 0.0042,
+    "name": "卫生和社会工作",
+    "value": 0.0042
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 27,
+    "bili": 0.0048,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0048
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "采矿业",
+    "number": 19,
+    "bili": 0.0033,
+    "name": "采矿业",
+    "value": 0.0033
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "hangye": "军队",
+    "number": 10,
+    "bili": 0.0018,
+    "name": "军队",
+    "value": 0.0018
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "制造业",
+    "number": 1297,
+    "bili": 0.2162,
+    "name": "制造业",
+    "value": 0.2162
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 934,
+    "bili": 0.1557,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1557
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "建筑业",
+    "number": 681,
+    "bili": 0.1135,
+    "name": "建筑业",
+    "value": 0.1135
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "批发和零售业",
+    "number": 539,
+    "bili": 0.0898,
+    "name": "批发和零售业",
+    "value": 0.0898
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "农、林、牧、渔业",
+    "number": 476,
+    "bili": 0.0793,
+    "name": "农、林、牧、渔业",
+    "value": 0.0793
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "租赁和商务服务业",
+    "number": 298,
+    "bili": 0.0497,
+    "name": "租赁和商务服务业",
+    "value": 0.0497
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 283,
+    "bili": 0.0472,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0472
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "金融业",
+    "number": 228,
+    "bili": 0.0380,
+    "name": "金融业",
+    "value": 0.0380
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "文化、体育和娱乐业",
+    "number": 216,
+    "bili": 0.0360,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0360
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "科学研究和技术服务业",
+    "number": 194,
+    "bili": 0.0323,
+    "name": "科学研究和技术服务业",
+    "value": 0.0323
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 187,
+    "bili": 0.0312,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0312
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "教育",
+    "number": 140,
+    "bili": 0.0233,
+    "name": "教育",
+    "value": 0.0233
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 131,
+    "bili": 0.0218,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0218
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 114,
+    "bili": 0.0190,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0190
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "房地产业",
+    "number": 93,
+    "bili": 0.0155,
+    "name": "房地产业",
+    "value": 0.0155
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "住宿和餐饮业",
+    "number": 75,
+    "bili": 0.0125,
+    "name": "住宿和餐饮业",
+    "value": 0.0125
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "卫生和社会工作",
+    "number": 45,
+    "bili": 0.0075,
+    "name": "卫生和社会工作",
+    "value": 0.0075
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 29,
+    "bili": 0.0048,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0048
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "采矿业",
+    "number": 20,
+    "bili": 0.0035,
+    "name": "采矿业",
+    "value": 0.0035
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "hangye": "军队",
+    "number": 19,
+    "bili": 0.3200,
+    "name": "军队",
+    "value": 0.3200
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "制造业",
+    "number": 1198,
+    "bili": 0.1889,
+    "name": "制造业",
+    "value": 0.1889
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 1019,
+    "bili": 0.1607,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1607
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "建筑业",
+    "number": 785,
+    "bili": 0.1238,
+    "name": "建筑业",
+    "value": 0.1238
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "批发和零售业",
+    "number": 475,
+    "bili": 0.0749,
+    "name": "批发和零售业",
+    "value": 0.0749
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "农、林、牧、渔业",
+    "number": 452,
+    "bili": 0.0713,
+    "name": "农、林、牧、渔业",
+    "value": 0.0713
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "租赁和商务服务业",
+    "number": 364,
+    "bili": 0.0574,
+    "name": "租赁和商务服务业",
+    "value": 0.0574
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": 257,
+    "bili": 0.0405,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0405
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "金融业",
+    "number": 246,
+    "bili": 0.0388,
+    "name": "金融业",
+    "value": 0.0388
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "文化、体育和娱乐业",
+    "number": 243,
+    "bili": 0.0383,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0383
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "科学研究和技术服务业",
+    "number": 236,
+    "bili": 0.0372,
+    "name": "科学研究和技术服务业",
+    "value": 0.0372
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 208,
+    "bili": 0.0328,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0328
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "教育",
+    "number": 202,
+    "bili": 0.0319,
+    "name": "教育",
+    "value": 0.0319
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 197,
+    "bili": 0.0311,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0311
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": 119,
+    "bili": 0.0188,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0188
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "房地产业",
+    "number": 113,
+    "bili": 0.0178,
+    "name": "房地产业",
+    "value": 0.0178
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "住宿和餐饮业",
+    "number": 86,
+    "bili": 0.0136,
+    "name": "住宿和餐饮业",
+    "value": 0.0136
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "卫生和社会工作",
+    "number": 65,
+    "bili": 0.0102,
+    "name": "卫生和社会工作",
+    "value": 0.0102
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": 51,
+    "bili": 0.0080,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0080
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "采矿业",
+    "number": 14,
+    "bili": 0.0022,
+    "name": "采矿业",
+    "value": 0.0022
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "hangye": "军队",
+    "number": 12,
+    "bili": 0.0019,
+    "name": "军队",
+    "value": 0.0019
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "建筑业",
+    "number": 1567,
+    "bili": 0.2035,
+    "name": "建筑业",
+    "value": 0.2035
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "制造业",
+    "number": 1496,
+    "bili": 0.1943,
+    "name": "制造业",
+    "value": 0.1943
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": 1434,
+    "bili": 0.1862,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1862
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "批发和零售业",
+    "number": 450,
+    "bili": 0.0585,
+    "name": "批发和零售业",
+    "value": 0.0585
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "采矿业",
+    "number": 430,
+    "bili": 0.0559,
+    "name": "采矿业",
+    "value": 0.0559
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": 400,
+    "bili": 0.0520,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0520
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "教育",
+    "number": 347,
+    "bili": 0.0451,
+    "name": "教育",
+    "value": 0.0451
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "科学研究和技术服务业",
+    "number": 246,
+    "bili": 0.0319,
+    "name": "科学研究和技术服务业",
+    "value": 0.0319
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": 199,
+    "bili": 0.0258,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0258
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "军队",
+    "number": 176,
+    "bili": 0.0229,
+    "name": "军队",
+    "value": 0.0229
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "hangye": "其他",
+    "number": 954,
+    "bili": 0.1239,
+    "name": "其他",
+    "value": 0.1239
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "信息传 输、软 件和信 息技术 服务业",
+    "number": 461,
+    "bili": 0.2304,
+    "name": "信息传 输、软 件和信 息技术 服务业",
+    "value": 0.2304
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "制造业",
+    "number": 432,
+    "bili": 0.2162,
+    "name": "制造业",
+    "value": 0.2162
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "建筑业",
+    "number": 272,
+    "bili": 0.1358,
+    "name": "建筑业",
+    "value": 0.1358
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "批发和 零售业",
+    "number": 181,
+    "bili": 0.0904,
+    "name": "批发和 零售业",
+    "value": 0.0904
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "采矿业",
+    "number": 106,
+    "bili": 0.0528,
+    "name": "采矿业",
+    "value": 0.0528
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "电力、 热力、 燃气及 水生产 和供应 业",
+    "number": 105,
+    "bili": 0.0524,
+    "name": "电力、 热力、 燃气及 水生产 和供应 业",
+    "value": 0.0524
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "教育",
+    "number": 70,
+    "bili": 0.0350,
+    "name": "教育",
+    "value": 0.0350
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "卫生和 社会工 作",
+    "number": 65,
+    "bili": 0.0325,
+    "name": "卫生和 社会工 作",
+    "value": 0.0325
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "交通运 输、仓 储和邮 政业",
+    "number": 47,
+    "bili": 0.0237,
+    "name": "交通运 输、仓 储和邮 政业",
+    "value": 0.0237
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "hangye": "金融业",
+    "number": 38,
+    "bili": 0.0192,
+    "name": "金融业",
+    "value": 0.0192
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.1727,
+    "name": "建筑业",
+    "value": 0.1727
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.1609,
+    "name": "制造业",
+    "value": 0.1609
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.1152,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1152
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.1100,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.1100
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0772,
+    "name": "采矿业",
+    "value": 0.0772
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": "",
+    "bili": 0.0647,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0647
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.0469,
+    "name": "教育",
+    "value": 0.0469
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0408,
+    "name": "金融业",
+    "value": 0.0408
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.0303,
+    "name": "科学研究和技术服务业",
+    "value": 0.0303
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": "",
+    "bili": 0.0243,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0243
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": "",
+    "bili": 0.0226,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0226
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "农、林、牧、渔业",
+    "number": "",
+    "bili": 0.0206,
+    "name": "农、林、牧、渔业",
+    "value": 0.0206
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.0198,
+    "name": "卫生和社会工作",
+    "value": 0.0198
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "文化、体育和娱乐业",
+    "number": "",
+    "bili": 0.0190,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0190
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "房地产业",
+    "number": "",
+    "bili": 0.0182,
+    "name": "房地产业",
+    "value": 0.0182
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "军队",
+    "number": "",
+    "bili": 0.0174,
+    "name": "军队",
+    "value": 0.0174
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.0137,
+    "name": "批发和零售业",
+    "value": 0.0137
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "租赁和商务服务业",
+    "number": "",
+    "bili": 0.0087,
+    "name": "租赁和商务服务业",
+    "value": 0.0087
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": "",
+    "bili": 0.0085,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0085
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "住宿和餐饮业",
+    "number": "",
+    "bili": 0.0077,
+    "name": "住宿和餐饮业",
+    "value": 0.0077
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "hangye": "国际组织.",
+    "number": "",
+    "bili": 0.0008,
+    "name": "国际组织.",
+    "value": 0.0008
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.1934,
+    "name": "制造业",
+    "value": 0.1934
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.1012,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1012
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0856,
+    "name": "采矿业",
+    "value": 0.0856
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.0758,
+    "name": "建筑业",
+    "value": 0.0758
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 5,
+    "name": "金融业",
+    "value": 5
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.0564,
+    "name": "教育",
+    "value": 0.0564
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "其他服务",
+    "number": "",
+    "bili": 0.0423,
+    "name": "其他服务",
+    "value": 0.0423
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "房地产",
+    "number": "",
+    "bili": 0.0358,
+    "name": "房地产",
+    "value": 0.0358
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.0234,
+    "name": "批发和零售业",
+    "value": 0.0234
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.0225,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0225
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "hangye": "其他制造业",
+    "number": "",
+    "bili": 0.0216,
+    "name": "其他制造业",
+    "value": 0.0216
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.2672,
+    "name": "卫生和社会工作",
+    "value": 0.2672
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.1273,
+    "name": "教育",
+    "value": 0.1273
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.1265,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.1265
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.0850,
+    "name": "建筑业",
+    "value": 0.0850
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.0824,
+    "name": "制造业",
+    "value": 0.0824
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.0633,
+    "name": "科学研究和技术服务业",
+    "value": 0.0633
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0488,
+    "name": "金融业",
+    "value": 0.0488
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": "",
+    "bili": 0.0474,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0474
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "房地产业",
+    "number": "",
+    "bili": 0.0315,
+    "name": "房地产业",
+    "value": 0.0315
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.0246,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0246
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "文化、体育和娱乐业",
+    "number": "",
+    "bili": 0.0199,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0199
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": "",
+    "bili": 0.0166,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0166
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": "",
+    "bili": 0.0163,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0163
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.0137,
+    "name": "批发和零售业",
+    "value": 0.0137
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": "",
+    "bili": 0.0072,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0072
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "租赁和商业服务业",
+    "number": "",
+    "bili": 0.0061,
+    "name": "租赁和商业服务业",
+    "value": 0.0061
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "军队",
+    "number": "",
+    "bili": 0.0054,
+    "name": "军队",
+    "value": 0.0054
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "农、林、牧、渔业",
+    "number": "",
+    "bili": 0.0040,
+    "name": "农、林、牧、渔业",
+    "value": 0.0040
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "住宿和餐饮业",
+    "number": "",
+    "bili": 0.0040,
+    "name": "住宿和餐饮业",
+    "value": 0.0040
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0025,
+    "name": "采矿业",
+    "value": 0.0025
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "hangye": "国际组织",
+    "number": "",
+    "bili": 0.0004,
+    "name": "国际组织",
+    "value": 0.0004
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.0816,
+    "name": "卫生和社会工作",
+    "value": 0.0816
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.1094,
+    "name": "教育",
+    "value": 0.1094
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.2665,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.2665
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.0752,
+    "name": "建筑业",
+    "value": 0.0752
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.0957,
+    "name": "制造业",
+    "value": 0.0957
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.0551,
+    "name": "科学研究和技术服务业",
+    "value": 0.0551
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0609,
+    "name": "金融业",
+    "value": 0.0609
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": "",
+    "bili": 0.0358,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0358
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "房地产业",
+    "number": "",
+    "bili": 0.0261,
+    "name": "房地产业",
+    "value": 0.0261
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.0279,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0279
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "文化、体育和娱乐业",
+    "number": "",
+    "bili": 0.0540,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0540
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": "",
+    "bili": 0.0220,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0220
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": "",
+    "bili": 0.0232,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0232
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.0216,
+    "name": "批发和零售业",
+    "value": 0.0216
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": "",
+    "bili": 0.0163,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0163
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "租赁和商业服务业",
+    "number": "",
+    "bili": 0.0133,
+    "name": "租赁和商业服务业",
+    "value": 0.0133
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "军队",
+    "number": "",
+    "bili": 0.0022,
+    "name": "军队",
+    "value": 0.0022
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "农、林、牧、渔业",
+    "number": "",
+    "bili": 0.0104,
+    "name": "农、林、牧、渔业",
+    "value": 0.0104
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "住宿和餐饮业",
+    "number": "",
+    "bili": 0.0125,
+    "name": "住宿和餐饮业",
+    "value": 0.0125
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0008,
+    "name": "采矿业",
+    "value": 0.0008
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "hangye": "国际组织",
+    "number": "",
+    "bili": 0.0003,
+    "name": "国际组织",
+    "value": 0.0003
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0433,
+    "name": "金融业",
+    "value": 0.0433
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.0512,
+    "name": "教育",
+    "value": 0.0512
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.0574,
+    "name": "制造业",
+    "value": 0.0574
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.0759,
+    "name": "建筑业",
+    "value": 0.0759
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.1117,
+    "name": "科学研究和技术服务业",
+    "value": 0.1117
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.2745,
+    "name": "卫生和社会工作",
+    "value": 0.2745
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.3252,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.3252
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "农、林、牧、渔业",
+    "number": "",
+    "bili": 0.1532,
+    "name": "农、林、牧、渔业",
+    "value": 0.1532
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.1156,
+    "name": "教育",
+    "value": 0.1156
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.0855,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.0855
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.0818,
+    "name": "制造业",
+    "value": 0.0818
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.0761,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0761
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": "",
+    "bili": 0.0733,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0733
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.0620,
+    "name": "批发和零售业",
+    "value": 0.0620
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.0489,
+    "name": "建筑业",
+    "value": 0.0489
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": "",
+    "bili": 0.0423,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0423
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0357,
+    "name": "金融业",
+    "value": 0.0357
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.0348,
+    "name": "科学研究和技术服务业",
+    "value": 0.0348
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "住宿和餐饮业",
+    "number": "",
+    "bili": 0.0320,
+    "name": "住宿和餐饮业",
+    "value": 0.0320
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "租赁和商业服务业",
+    "number": "",
+    "bili": 0.0301,
+    "name": "租赁和商业服务业",
+    "value": 0.0301
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.0263,
+    "name": "卫生和社会工作",
+    "value": 0.0263
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "文化、体育和娱乐业",
+    "number": "",
+    "bili": 0.0226,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0226
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": "",
+    "bili": 0.0226,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0226
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "房地产业",
+    "number": "",
+    "bili": 0.0207,
+    "name": "房地产业",
+    "value": 0.0207
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": "",
+    "bili": 0.0160,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0160
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0150,
+    "name": "采矿业",
+    "value": 0.0150
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "军队",
+    "number": "",
+    "bili": 0.0028,
+    "name": "军队",
+    "value": 0.0028
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "hangye": "国际组织",
+    "number": "",
+    "bili": 0.0028,
+    "name": "国际组织",
+    "value": 0.0028
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.1522,
+    "name": "制造业",
+    "value": 0.1522
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.1380,
+    "name": "教育",
+    "value": 0.1380
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.1256,
+    "name": "建筑业",
+    "value": 0.1256
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.1043,
+    "name": "批发和零售业",
+    "value": 0.1043
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.0655,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.0655
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.0557,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0557
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0472,
+    "name": "金融业",
+    "value": 0.0472
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "住宿和餐饮业",
+    "number": "",
+    "bili": 0.0430,
+    "name": "住宿和餐饮业",
+    "value": 0.0430
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": "",
+    "bili": 0.0381,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0381
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": "",
+    "bili": 0.0339,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0339
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": "",
+    "bili": 0.0321,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0321
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.0296,
+    "name": "科学研究和技术服务业",
+    "value": 0.0296
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": "",
+    "bili": 0.0266,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0266
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "文化、体育和娱乐业",
+    "number": "",
+    "bili": 0.0260,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0260
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "租赁和商业服务业",
+    "number": "",
+    "bili": 0.0230,
+    "name": "租赁和商业服务业",
+    "value": 0.0230
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0206,
+    "name": "采矿业",
+    "value": 0.0206
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.0181,
+    "name": "卫生和社会工作",
+    "value": 0.0181
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "房地产业",
+    "number": "",
+    "bili": 0.0157,
+    "name": "房地产业",
+    "value": 0.0157
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "军队",
+    "number": "",
+    "bili": 0.0030,
+    "name": "军队",
+    "value": 0.0030
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "hangye": "国际组织",
+    "number": "",
+    "bili": 0.0018,
+    "name": "国际组织",
+    "value": 0.0018
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "农、林、牧、渔业",
+    "number": "",
+    "bili": 0.1248,
+    "name": "农、林、牧、渔业",
+    "value": 0.1248
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "租赁和商业服务业",
+    "number": "",
+    "bili": 0.1158,
+    "name": "租赁和商业服务业",
+    "value": 0.1158
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "教育",
+    "number": "",
+    "bili": 0.1125,
+    "name": "教育",
+    "value": 0.1125
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "信息传输、软件和信息技术服务业",
+    "number": "",
+    "bili": 0.0970,
+    "name": "信息传输、软件和信息技术服务业",
+    "value": 0.0970
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "制造业",
+    "number": "",
+    "bili": 0.0617,
+    "name": "制造业",
+    "value": 0.0617
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "金融业",
+    "number": "",
+    "bili": 0.0579,
+    "name": "金融业",
+    "value": 0.0579
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "电力、热力、燃气及水生产和供应业",
+    "number": "",
+    "bili": 0.0570,
+    "name": "电力、热力、燃气及水生产和供应业",
+    "value": 0.0570
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "批发和零售业",
+    "number": "",
+    "bili": 0.0494,
+    "name": "批发和零售业",
+    "value": 0.0494
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "建筑业",
+    "number": "",
+    "bili": 0.0443,
+    "name": "建筑业",
+    "value": 0.0443
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "公共管理、社会保障和社会组织",
+    "number": "",
+    "bili": 0.0395,
+    "name": "公共管理、社会保障和社会组织",
+    "value": 0.0395
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "交通运输、仓储和邮政业",
+    "number": "",
+    "bili": 0.0391,
+    "name": "交通运输、仓储和邮政业",
+    "value": 0.0391
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "科学研究和技术服务业",
+    "number": "",
+    "bili": 0.0381,
+    "name": "科学研究和技术服务业",
+    "value": 0.0381
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "文化、体育和娱乐业",
+    "number": "",
+    "bili": 0.0320,
+    "name": "文化、体育和娱乐业",
+    "value": 0.0320
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "房地产业",
+    "number": "",
+    "bili": 0.0306,
+    "name": "房地产业",
+    "value": 0.0306
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "水利、环境和公共设施管理业",
+    "number": "",
+    "bili": 0.0278,
+    "name": "水利、环境和公共设施管理业",
+    "value": 0.0278
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "住宿和餐饮业",
+    "number": "",
+    "bili": 0.0231,
+    "name": "住宿和餐饮业",
+    "value": 0.0231
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "居民服务、修理和其他服务业",
+    "number": "",
+    "bili": 0.0217,
+    "name": "居民服务、修理和其他服务业",
+    "value": 0.0217
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "卫生和社会工作",
+    "number": "",
+    "bili": 0.0146,
+    "name": "卫生和社会工作",
+    "value": 0.0146
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "采矿业",
+    "number": "",
+    "bili": 0.0104,
+    "name": "采矿业",
+    "value": 0.0104
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "军队",
+    "number": "",
+    "bili": 0.0028,
+    "name": "军队",
+    "value": 0.0028
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "hangye": "国际组织",
+    "number": "",
+    "bili": 0.0000,
+    "name": "国际组织",
+    "value": 0.0000
+  }
+]

@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.container {
+    background-image: url(../img/map_bg.png);
+    
+    display: grid;
+    grid-template-areas: 
+    'header header header'
+    'box-1 box-2 box-3'
+    'box-1 box-4 box-5'
+    'footer footer footer';
+    grid-template-columns: 2fr 3fr 3fr;
+    row-gap: 40px;
+    column-gap: 20px;
+}
+
+.header {
+    height: 80px;
+    line-height: 80px;
+    grid-area: header;
+    text-align: center;
+    font-size: 30px;
+    color: #1db4b3;
+    
+}
+
+.box-1 {
+    grid-area: box-1; 
+    background-color: rgba(0, 255, 106, 0.2) !important;
+    height: calc(100vh - 162px);
+}
+
+.box-2 {
+    grid-area: box-2; 
+    background-color: rgba(0, 119, 255,.2) !important;
+}
+
+.box-3 {
+    grid-area: box-3; 
+    background-color: rgba(0, 255, 213,.2) !important;
+}
+
+.box-4 {
+    grid-area: box-4; 
+    background-color: rgba(0, 47, 255,.2) !important;
+}
+
+.box-5 {
+    grid-area: box-5; 
+    background-color: rgba(255, 0, 170,.2) !important;
+}
+
+.angle {
+    color: white;
+    border: 1px solid blue;
+
+    text-align: center;
+
+    margin: 0 10px;
+
+    background: linear-gradient(blue, blue) left top,
+		linear-gradient(blue, blue) left top,
+		linear-gradient(blue, blue) right top,
+		linear-gradient(blue, blue) right top,
+		linear-gradient(blue, blue) left bottom,
+		linear-gradient(blue, blue) left bottom,
+		linear-gradient(blue, blue) right bottom,
+		linear-gradient(blue, blue) right bottom;
+	background-repeat: no-repeat;
+	background-size: 3px 25px, 25px 3px;
+}
+
+.box {
+    padding: 10px;
+}
+
+.title {
+    color: #ffffff;
+    background-color: #0087fd;
+    display: inline;
+    padding: 10px;
+    
+    position: relative;
+    top: -9px;
+
+    border: 3px solid blue;
+}
+

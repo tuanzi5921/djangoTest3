@@ -1,0 +1,274 @@
+[
+  {
+    "province": "安徽",
+    "coordinate": "[117.17,31.52]",
+    "to": "毕业生去向",
+    "tonum": 866,
+    "from": "生源",
+    "fromnum": 112
+  },
+  {
+    "province": "澳门",
+    "coordinate": "[115.07,21.33]",
+    "to": "毕业生去向",
+    "tonum": 2,
+    "from": "生源",
+    "fromnum": 0
+  },
+  {
+    "province": "北京",
+    "coordinate": "[116.24,39.55]",
+    "to": "毕业生去向",
+    "tonum": 1234,
+    "from": "生源",
+    "fromnum": 820
+  },
+  {
+    "province": "福建",
+    "coordinate": "[119.18,26.05]",
+    "to": "毕业生去向",
+    "tonum": 96,
+    "from": "生源",
+    "fromnum": 103
+  },
+  {
+    "province": "甘肃",
+    "coordinate": "[103.51,36.04]",
+    "to": "毕业生去向",
+    "tonum": 42,
+    "from": "生源",
+    "fromnum": 134
+  },
+  {
+    "province": "广东",
+    "coordinate": "[113.14,23.08]",
+    "to": "毕业生去向",
+    "tonum": 605,
+    "from": "生源",
+    "fromnum": 212
+  },
+  {
+    "province": "广西",
+    "coordinate": "[108.19,22.48]",
+    "to": "毕业生去向",
+    "tonum": 61,
+    "from": "生源",
+    "fromnum": 120
+  },
+  {
+    "province": "贵州",
+    "coordinate": "[106.42,26.35]",
+    "to": "毕业生去向",
+    "tonum": 28,
+    "from": "生源",
+    "fromnum": 102
+  },
+  {
+    "province": "海南",
+    "coordinate": "[108.77,19.10]",
+    "to": "毕业生去向",
+    "tonum": 112,
+    "from": "生源",
+    "fromnum": 0
+  },
+  {
+    "province": "海南",
+    "coordinate": "[110.20,20.02]",
+    "to": "毕业生去向",
+    "tonum": 31,
+    "from": "生源",
+    "fromnum": 80
+  },
+  {
+    "province": "河北",
+    "coordinate": "[114.30,38.02]",
+    "to": "毕业生去向",
+    "tonum": 94,
+    "from": "生源",
+    "fromnum": 211
+  },
+  {
+    "province": "河南",
+    "coordinate": "[113.40,34.46]",
+    "to": "毕业生去向",
+    "tonum": 2673,
+    "from": "生源",
+    "fromnum": 3917
+  },
+  {
+    "province": "黑龙江",
+    "coordinate": "[128.36,45.44]",
+    "to": "毕业生去向",
+    "tonum": 16,
+    "from": "生源",
+    "fromnum": 73
+  },
+  {
+    "province": "湖北",
+    "coordinate": "[112.27,30.15]",
+    "to": "毕业生去向",
+    "tonum": 128,
+    "from": "生源",
+    "fromnum": 179
+  },
+  {
+    "province": "湖南",
+    "coordinate": "[112.59,28.12]",
+    "to": "毕业生去向",
+    "tonum": 112,
+    "from": "生源",
+    "fromnum": 243
+  },
+  {
+    "province": "吉林",
+    "coordinate": "[125.19,43.54]",
+    "to": "毕业生去向",
+    "tonum": 20,
+    "from": "生源",
+    "fromnum": 54
+  },
+  {
+    "province": "江苏",
+    "coordinate": "[118.46,32.03]",
+    "to": "毕业生去向",
+    "tonum": 336,
+    "from": "生源",
+    "fromnum": 204
+  },
+  {
+    "province": "江西",
+    "coordinate": "[115.55,28.40]",
+    "to": "毕业生去向",
+    "tonum": 88,
+    "from": "生源",
+    "fromnum": 214
+  },
+  {
+    "province": "辽宁",
+    "coordinate": "[123.25,41.48]",
+    "to": "毕业生去向",
+    "tonum": 42,
+    "from": "生源",
+    "fromnum": 33
+  },
+  {
+    "province": "内蒙古",
+    "coordinate": "[108.41,40.48]",
+    "to": "毕业生去向",
+    "tonum": 19,
+    "from": "生源",
+    "fromnum": 75
+  },
+  {
+    "province": "宁夏",
+    "coordinate": "[106.16,38.27]",
+    "to": "毕业生去向",
+    "tonum": 16,
+    "from": "生源",
+    "fromnum": 66
+  },
+  {
+    "province": "青海",
+    "coordinate": "[101.48,36.38]",
+    "to": "毕业生去向",
+    "tonum": 10,
+    "from": "生源",
+    "fromnum": 26
+  },
+  {
+    "province": "山东",
+    "coordinate": "[118.00,36.40]",
+    "to": "毕业生去向",
+    "tonum": 66,
+    "from": "生源",
+    "fromnum": 69
+  },
+  {
+    "province": "山西",
+    "coordinate": "[112.33,37.54]",
+    "to": "毕业生去向",
+    "tonum": 46,
+    "from": "生源",
+    "fromnum": 149
+  },
+  {
+    "province": "陕西",
+    "coordinate": "[108.57,34.17]",
+    "to": "毕业生去向",
+    "tonum": 65,
+    "from": "生源",
+    "fromnum": 67
+  },
+  {
+    "province": "上海",
+    "coordinate": "[121.29,31.14]",
+    "to": "毕业生去向",
+    "tonum": 303,
+    "from": "生源",
+    "fromnum": 12
+  },
+  {
+    "province": "四川",
+    "coordinate": "[104.04,30.40]",
+    "to": "毕业生去向",
+    "tonum": 84,
+    "from": "生源",
+    "fromnum": 30
+  },
+  {
+    "province": "天津",
+    "coordinate": "[117.12,39.02]",
+    "to": "毕业生去向",
+    "tonum": 68,
+    "from": "生源",
+    "fromnum": 62
+  },
+  {
+    "province": "西藏",
+    "coordinate": "[91.08,29.39]",
+    "to": "毕业生去向",
+    "tonum": 2,
+    "from": "生源",
+    "fromnum": 0
+  },
+  {
+    "province": "香港",
+    "coordinate": "[114.1,22.2]",
+    "to": "毕业生去向",
+    "tonum": 2,
+    "from": "生源",
+    "fromnum": 0
+  },
+  {
+    "province": "新疆",
+    "coordinate": "[87.36,43.45]",
+    "to": "毕业生去向",
+    "tonum": 20,
+    "from": "生源",
+    "fromnum": 69
+  },
+  {
+    "province": "云南",
+    "coordinate": "[102.42,25.04]",
+    "to": "毕业生去向",
+    "tonum": 32,
+    "from": "生源",
+    "fromnum": 52
+  },
+  {
+    "province": "浙江",
+    "coordinate": "[120.10,30.16]",
+    "to": "毕业生去向",
+    "tonum": 351,
+    "from": "生源",
+    "fromnum": 83
+  },
+  {
+    "province": "重庆",
+    "coordinate": "[106.54,29.59]",
+    "to": "毕业生去向",
+    "tonum": 35,
+    "from": "生源",
+    "fromnum": 39
+  }
+]

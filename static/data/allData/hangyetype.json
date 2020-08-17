@@ -1,0 +1,282 @@
+[
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "其他大型企业",
+    "value": 0.2067
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "世界500强",
+    "value": 0.1086
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "中国500强",
+    "value": 0.0876
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "小微企业",
+    "value": 0.2390
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "中型企业",
+    "value": 0.3581
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "其他大型企业",
+    "value": 0.2323
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "世界500强",
+    "value": 0.1559
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "中国500强",
+    "value": 0.1382
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "小微企业",
+    "value": 0.2294
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "中型企业",
+    "value": 0.2431
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "其他大型企业",
+    "value": 0.2323
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "世界500强",
+    "value": 0.1559
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "中国500强",
+    "value": 0.1382
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "小微企业",
+    "value": 0.2294
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "中型企业",
+    "value": 0.2431
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "国有企业",
+    "value": 0.0800
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "外资企业",
+    "value": 0.3700
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "民营企业",
+    "value": 0.4000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "上市公司",
+    "value": 0.1000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "其他企业",
+    "value": 0.0500
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "国有企业",
+    "value": 0.1000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "外资企业",
+    "value": 0.1100
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "民营企业",
+    "value": 0.6400
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "上市公司",
+    "value": 0.0900
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "其他企业",
+    "value": 0.0600
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "国有企业",
+    "value": 0.1000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "外资企业",
+    "value": 0.3700
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "民营企业",
+    "value": 0.4300
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "上市公司",
+    "value": 0.0700
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "其他企业",
+    "value": 0.0300
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "其他大型企业",
+    "value": 0.2411
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "世界500强",
+    "value": 0.1071
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "中国500强",
+    "value": 0.0964
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "小微企业",
+    "value": 0.2696
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "中型企业",
+    "value": 0.2857
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "其他大型企业",
+    "value": 0.1637
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "世界500强",
+    "value": 0.1018
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "中国500强",
+    "value": 0.0962
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "小微企业",
+    "value": 0.3264
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "中型企业",
+    "value": 0.3119
+  }
+]

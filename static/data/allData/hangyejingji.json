@@ -1,0 +1,2210 @@
+[
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "其他企业",
+    "number": 1916,
+    "value": 0.7222
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "国有企业",
+    "number": 337,
+    "value": 0.1270
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "三资企业",
+    "number": 325,
+    "value": 0.1225
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "中初教育单位",
+    "number": 17,
+    "value": 0.0064
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "其他事业单位",
+    "number": 13,
+    "value": 0.0049
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "科研设计单位",
+    "number": 10,
+    "value": 0.0038
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "自主创业",
+    "number": 7,
+    "value": 0.0026
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "机关",
+    "number": 6,
+    "value": 0.0023
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "医疗卫生单位",
+    "number": 6,
+    "value": 0.0023
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "部队",
+    "number": 5,
+    "value": 0.0019
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "自由职业",
+    "number": 3,
+    "value": 0.0011
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "高等教育单位",
+    "number": 2,
+    "value": 0.0008
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "艰苦行业企业",
+    "number": 2,
+    "value": 0.0008
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "国家基层项目",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "地方基层项目",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "农村建制村",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "城镇社区",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "其他企业 ",
+    "number": 2099,
+    "value": 0.7788
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "三资企业 ",
+    "number": 266,
+    "value": 0.0987
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "国有企业 ",
+    "number": 223,
+    "value": 0.0827
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": 30,
+    "value": 0.0111
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "科研设计单位",
+    "number": 20,
+    "value": 0.0074
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "中初教育单位",
+    "number": 18,
+    "value": 0.0067
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "机关 ",
+    "number": 15,
+    "value": 0.0056
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "医疗卫生单位",
+    "number": 7,
+    "value": 0.0026
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": 7,
+    "value": 0.0026
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "艰苦行业企业",
+    "number": 3,
+    "value": 0.0011
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "国家基层项目",
+    "number": 3,
+    "value": 0.0011
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "地方基层项目",
+    "number": 2,
+    "value": 0.0007
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "城镇社区 ",
+    "number": 2,
+    "value": 0.0007
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "其他企业",
+    "number": 2243,
+    "value": 0.7557
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "三资企业",
+    "number": 479,
+    "value": 0.1613
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "国有企业",
+    "number": 181,
+    "value": 0.0609
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": 20,
+    "value": 0.0066
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "机关",
+    "number": 18,
+    "value": 0.0061
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "中初教育单位",
+    "number": 12,
+    "value": 0.0042
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "科研设计单位",
+    "number": 7,
+    "value": 0.0023
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "医疗卫生单位",
+    "number": 6,
+    "value": 0.0019
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "高等教育单位",
+    "number": 3,
+    "value": 0.0010
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "民营企业",
+    "number": 407,
+    "value": 0.4066
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "国有企业",
+    "number": 209,
+    "value": 0.2089
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "其他企业",
+    "number": 87,
+    "value": 0.0874
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "医疗卫生单位",
+    "number": 79,
+    "value": 0.0786
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "三资企业",
+    "number": 70,
+    "value": 0.0699
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "其他",
+    "number": 68,
+    "value": 0.0675
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "中初教育单位",
+    "number": 26,
+    "value": 0.0262
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": 21,
+    "value": 0.0214
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "党政机关",
+    "number": 18,
+    "value": 0.0175
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "科研设计单位",
+    "number": 9,
+    "value": 0.0087
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": 4,
+    "value": 0.0040
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "部队",
+    "number": 2,
+    "value": 0.0024
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "城镇社区",
+    "number": 1,
+    "value": 0.0008
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "民营企业",
+    "number": 1463,
+    "value": 0.4630
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "国有企业",
+    "number": 556,
+    "value": 0.1758
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "其他企业",
+    "number": 268,
+    "value": 0.0848
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "医疗卫生单位",
+    "number": 196,
+    "value": 0.0620
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "三资企业",
+    "number": 174,
+    "value": 0.0550
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "其他",
+    "number": 120,
+    "value": 0.0380
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "中初教育单位",
+    "number": 102,
+    "value": 0.0323
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": 82,
+    "value": 0.0259
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "党政机关",
+    "number": 72,
+    "value": 0.0228
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "科研设计单位",
+    "number": 70,
+    "value": 0.0221
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "高等教育单位",
+    "number": 42,
+    "value": 0.0133
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "部队",
+    "number": 10,
+    "value": 0.0032
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "城镇社区",
+    "number": 4,
+    "value": 0.0013
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "农村建制村",
+    "number": 2,
+    "value": 0.0006
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "其他企业",
+    "number": 1582,
+    "value": 0.7911
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "国有企业",
+    "number": 212,
+    "value": 0.1062
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "医疗卫生单位",
+    "number": 90,
+    "value": 0.0452
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "三资企业",
+    "number": 64,
+    "value": 0.0318
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "部队",
+    "number": 14,
+    "value": 0.0068
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "机关",
+    "number": 11,
+    "value": 0.0054
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "中初教育单位",
+    "number": 8,
+    "value": 0.0040
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "其他事业单位",
+    "number": 6,
+    "value": 0.0030
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "地方基层项目",
+    "number": 6,
+    "value": 0.0028
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "高等教育单位",
+    "number": 3,
+    "value": 0.0014
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "科研设计单位",
+    "number": 2,
+    "value": 0.0010
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "国家基层项目",
+    "number": 2,
+    "value": 0.0010
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "城镇社区",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "其他企业",
+    "number": 1249,
+    "value": 0.6244
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "中初教育单位",
+    "number": 276,
+    "value": 0.1378
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "国有企业",
+    "number": 190,
+    "value": 0.0952
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "医疗卫生单位",
+    "number": 132,
+    "value": 0.0661
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "高等教育单位",
+    "number": 91,
+    "value": 0.0456
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "机关",
+    "number": 24,
+    "value": 0.0120
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "其他事业单位",
+    "number": 22,
+    "value": 0.0108
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "三资企业",
+    "number": 6,
+    "value": 0.0032
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "部队",
+    "number": 4,
+    "value": 0.0021
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "科研设计单位",
+    "number": 4,
+    "value": 0.0021
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "科研助理",
+    "number": 1,
+    "value": 0.0003
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "地方基层项目",
+    "number": 1,
+    "value": 0.0001
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2019,
+    "name": "国家基层项目",
+    "number": 1,
+    "value": 0.0001
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "民营企业",
+    "number": 690,
+    "value": 0.3449
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "国有企业",
+    "number": 311,
+    "value": 0.1556
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "中初教育单位",
+    "number": 281,
+    "value": 0.1405
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "其他企业",
+    "number": 155,
+    "value": 0.0776
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": 136,
+    "value": 0.0680
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "党政机关",
+    "number": 118,
+    "value": 0.0589
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "医疗卫生单位",
+    "number": 117,
+    "value": 0.0587
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": 104,
+    "value": 0.0519
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "科研设计单位",
+    "number": 35,
+    "value": 0.0175
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "三资企业",
+    "number": 32,
+    "value": 0.0161
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "城镇社区",
+    "number": 10,
+    "value": 0.0052
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "部队",
+    "number": 8,
+    "value": 0.0041
+  },
+  {
+    "school": "河南大学",
+    "school_code": "henu",
+    "year": 2018,
+    "name": "农村建制村",
+    "number": 2,
+    "value": 0.0010
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "机关",
+    "number": 6,
+    "value": 0.0030
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "高等教育单位",
+    "number": 1,
+    "value": 0.0007
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "其他事业单位",
+    "number": 17,
+    "value": 0.0084
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "部队",
+    "number": 1,
+    "value": 0.0007
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "基层项目",
+    "number": 8,
+    "value": 0.0042
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "国有企业",
+    "number": 235,
+    "value": 0.1177
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "三资企业",
+    "number": 71,
+    "value": 0.0353
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "其他企业",
+    "number": 986,
+    "value": 0.4928
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "自主创业",
+    "number": 12,
+    "value": 0.0060
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "升学",
+    "number": 401,
+    "value": 0.2006
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "出国、出境",
+    "number": 40,
+    "value": 0.0200
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2019,
+    "name": "待就业",
+    "number": 221,
+    "value": 0.1104
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "机关",
+    "number": 9,
+    "value": 0.0046
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": 0.0000,
+    "value": 0.0000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": 10,
+    "value": 0.0052
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "部队",
+    "number": 7,
+    "value": 0.0035
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "基层项目",
+    "number": 10,
+    "value": 0.0048
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "国有企业",
+    "number": 218,
+    "value": 0.1089
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "三资企业",
+    "number": 61,
+    "value": 0.0304
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "其他企业",
+    "number": 1183,
+    "value": 0.5913
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "自主创业",
+    "number": 17,
+    "value": 0.0087
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "升学",
+    "number": 350,
+    "value": 0.1752
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "出国、出境",
+    "number": 41,
+    "value": 0.0207
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2018,
+    "name": "待就业",
+    "number": 95,
+    "value": 0.0474
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "机关",
+    "number": 16,
+    "value": 0.0081
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": 6,
+    "value": 0.0032
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "部队",
+    "number": 6,
+    "value": 0.0028
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "国家基层项目",
+    "number": 6,
+    "value": 0.0032
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "国有企业",
+    "number": 224,
+    "value": 0.1119
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "三资企业",
+    "number": 74,
+    "value": 0.0368
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "其他企业",
+    "number": 1168,
+    "value": 0.5838
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "自主创业",
+    "number": 19,
+    "value": 0.0093
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "升学",
+    "number": 334,
+    "value": 0.1670
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "出国、出境",
+    "number": 35,
+    "value": 0.0175
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "haut",
+    "year": 2017,
+    "name": "待就业",
+    "number": 113,
+    "value": 0.0563
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "其他企业",
+    "number": 1252,
+    "value": 0.6259
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "国有企业",
+    "number": 572,
+    "value": 0.2859
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "三资企业",
+    "number": 74,
+    "value": 0.0370
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "部队",
+    "number": 47,
+    "value": 0.0235
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "机关",
+    "number": 15,
+    "value": 0.0074
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "医疗卫生单位",
+    "number": 7,
+    "value": 0.0034
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": 0.0000,
+    "value": 0.0002
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "中初教育单位",
+    "number": 11,
+    "value": 0.0054
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "艰苦行业企业",
+    "number": 12,
+    "value": 0.0058
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": 4,
+    "value": 0.0022
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "科研设计单位",
+    "number": 2,
+    "value": 0.0009
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "国家基层项目",
+    "number": 3,
+    "value": 0.0016
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "地方基层项目",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "城镇社区",
+    "number": 0.0000,
+    "value": 0.0002
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "艰苦事业单位",
+    "number": 0.0000,
+    "value": 0.0000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "科研助理",
+    "number": 0.0000,
+    "value": 0.0000
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "其他企业",
+    "number": 1205,
+    "value": 0.6025
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "国有企业",
+    "number": 508,
+    "value": 0.2540
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "机关",
+    "number": 99,
+    "value": 0.0497
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "三资企业",
+    "number": 69,
+    "value": 0.0346
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": 47,
+    "value": 0.0236
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "医疗卫生单位",
+    "number": 11,
+    "value": 0.0055
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "科研设计单位",
+    "number": 34,
+    "value": 0.0169
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "中初教育单位",
+    "number": 9,
+    "value": 0.0043
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "高等教育单位",
+    "number": 0.0000,
+    "value": 0.0002
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "部队",
+    "number": 7,
+    "value": 0.0037
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "艰苦行业企业",
+    "number": 6,
+    "value": 0.0028
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "国家基层项目",
+    "number": 2,
+    "value": 0.0012
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "城镇社区",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "地方基层项目",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "科研助理",
+    "number": 0.0000,
+    "value": 0.0002
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.3251
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.3119
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0857
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0805
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "中等教育单位",
+    "number": "",
+    "value": 0.0477
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0441
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "党政机关",
+    "number": "",
+    "value": 0.0303
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.0243
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0226
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "部队",
+    "number": "",
+    "value": 0.0198
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "城镇社区",
+    "number": "",
+    "value": 0.0044
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "农村建制村",
+    "number": "",
+    "value": 0.0036
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.3661
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.2013
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "民营企业",
+    "number": "",
+    "value": 0.1512
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "其它事业单位.",
+    "number": "",
+    "value": 0.0623
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0545
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.0401
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "中初教育单位",
+    "number": "",
+    "value": 0.0315
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "党政机关",
+    "number": "",
+    "value": 0.0242
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "科研设计单位.",
+    "number": "",
+    "value": 0.0232
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "城镇社区",
+    "number": "",
+    "value": 0.0225
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.0122
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0074
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "农村建制村",
+    "number": "",
+    "value": 0.0021
+  },
+  {
+    "school": "河南工业大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "部队",
+    "number": "",
+    "value": 0.0014
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "城镇社区",
+    "number": "",
+    "value": 0.0007
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "农村建制村",
+    "number": "",
+    "value": 0.0014
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "部队",
+    "number": "",
+    "value": 0.0035
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0077
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0119
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "其他",
+    "number": "",
+    "value": 0.0266
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "党政机关",
+    "number": "",
+    "value": 0.0287
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0315
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "中初教育单位.",
+    "number": "",
+    "value": 0.0378
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0378
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.0434
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.1783
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.2888
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "民营企业",
+    "number": "",
+    "value": 0.3021
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.4580
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.2387
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.1622
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0411
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "自由职业",
+    "number": "",
+    "value": 0.0290
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "自主创业",
+    "number": "",
+    "value": 0.0244
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "机关",
+    "number": "",
+    "value": 0.0157
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0079
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "中初教育单位",
+    "number": "",
+    "value": 0.0076
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0059
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "地方基层项目",
+    "number": "",
+    "value": 0.0026
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "科研助理",
+    "number": "",
+    "value": 0.0021
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "部队",
+    "number": "",
+    "value": 0.0020
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0014
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "国家基层项目",
+    "number": "",
+    "value": 0.0012
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "艰苦事业单位",
+    "number": "",
+    "value": 0.0001
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0117
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0356
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0517
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "三资企业.",
+    "number": "",
+    "value": 0.0663
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.1924
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.2697
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.2745
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "民营企业",
+    "number": "",
+    "value": 0.3083
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "其他",
+    "number": "",
+    "value": 0.2491
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.0977
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.0968
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "中初教育单位",
+    "number": "",
+    "value": 0.0461
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0404
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "党政机关",
+    "number": "",
+    "value": 0.0404
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0348
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0301
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.0263
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0235
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "部队",
+    "number": "",
+    "value": 0.0038
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "城镇社区",
+    "number": "",
+    "value": 0.0019
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "农村建制村",
+    "number": "",
+    "value": 0.0009
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "民营企业",
+    "number": "",
+    "value": 0.3170
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.1137
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "党政机关",
+    "number": "",
+    "value": 0.0926
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.0901
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0696
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "中初教育单位",
+    "number": "",
+    "value": 0.0684
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "其他",
+    "number": "",
+    "value": 0.0629
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0575
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0557
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.0290
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0254
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "城镇社区",
+    "number": "",
+    "value": 0.0103
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "部队",
+    "number": "",
+    "value": 0.0042
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "农村建制村",
+    "number": "",
+    "value": 0.0036
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "民营企业",
+    "number": "",
+    "value": 0.2312
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "其他企业",
+    "number": "",
+    "value": 0.2307
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "其他",
+    "number": "",
+    "value": 0.1817
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": "",
+    "value": 0.0711
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "国有企业",
+    "number": "",
+    "value": 0.0636
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "科研设计单位",
+    "number": "",
+    "value": 0.0546
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "党政机关",
+    "number": "",
+    "value": 0.0424
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "中初教育单位",
+    "number": "",
+    "value": 0.0381
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "高等教育单位",
+    "number": "",
+    "value": 0.0353
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "三资企业",
+    "number": "",
+    "value": 0.0264
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "医疗卫生单位",
+    "number": "",
+    "value": 0.0155
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "农村建制村",
+    "number": "",
+    "value": 0.0038
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "城镇社区",
+    "number": "",
+    "value": 0.0028
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "部队",
+    "number": "",
+    "value": 0.0028
+  }
+]

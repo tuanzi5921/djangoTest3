@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>河南省大学生就业分析可视化</title>
+    <link rel="stylesheet" href="/static/css/common.css">
+    <link rel="stylesheet" href="/static/css/zhuanye.css">
+    <link rel="stylesheet" href="/static/css/tips.css">
+
+
+    <style>
+
+        .selectS {
+            margin-top: 20px;
+        }
+
+        .selectS > select {
+            height: 40px;
+            width: 150px;
+            top: 30px;
+            left: 50px;
+            background-color: rgba(0.1, 0.1, 0.1, 0.1);
+            color: beige;
+        }
+
+        .selectS > select > option {
+            color: rgba(253, 242, 255, 0.95);
+            background-color: #0826ba;
+        !important;
+        }
+
+        .selectS > button {
+            color: #000000;
+            height: 40px;
+            width: 80px;
+            background-color: #00FFFF;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="data">
+
+    <div class="data-title">
+        <h1 style="color: #00C1B3; font-size: 50px" align="center">河南省大学生就业数据可视化平台</h1>
+        <div class="title-left fl"></div>
+
+        <div class="title-right fr"></div>
+    </div>
+    <div class="data-content">
+        <div class="con-left fl">
+            <div class="left-top">
+                <div class="info">
+                    <div class="info-title">导航栏</div>
+                    <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                    <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                    <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                    <img src="/static/img/bj-4.png" alt="" class="bj-4">
+                    <div class="info-main">
+                        <div class="info-1">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-1.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../index2">首页</a></p>
+                            </div>
+                        </div>
+                        <div class="info-2">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-2.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../xueyuan">学院数据详情</a></p>
+                            </div>
+                        </div>
+                        <div class="info-3">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-3.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../hangye">行业详情</a></p>
+                            </div>
+                        </div>
+                        <div class="info-4">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-4.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../yuce">未来趋势预测</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="top-bottom">
+                    <div class="title">温馨提示</div>
+                    <p id="tips" class="tips"></p>
+                    <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                    <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                    <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                    <img src="/static/img/bj-4.png" alt="" class="bj-4">
+                </div>
+            </div>
+        </div>
+        <div class="con-center fl">
+            <div class="map-num">
+                <div class="selectS">
+                    <select id="school" name="school">
+                        <option value="zzuli">请选择学校</option>
+                        <option value="zzuli">郑州轻工业大学</option>
+                        <option value="zzu">郑州大学</option>
+                        <option value="henu">河南大学</option>
+                        <option value="hpu">河南理工大学</option>
+                        <option value="haut">河南工业大学</option>
+                        <option value="henau">河南农业大学</option>
+                        <option value="haust">河南科技大学</option>
+                    </select>
+
+                    <select id="year" name="year">
+                        <option value="2019">请选择年份</option>
+                        <option value="2020">2020</option>
+                        <option value="2019">2019</option>
+                        <option value="2018">2018</option>
+                        <option value="2017">2017</option>
+                        <option value="2016">2016</option>
+                        <option value="2015">2015</option>
+                    </select>
+                    <button id="Refresh" name="Refresh" onclick="refreshPage()" value="">刷新数据</button>
+                </div>
+                <div class="num">
+
+                </div>
+            </div>
+            <div class="cen-top">
+                <div class="title">专业分布图</div>
+                <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                <img src="/static/img/bj-4.png" alt="" class="bj-4">
+                <div id="echarts_4" class="charts"></div>
+            </div>
+            <div class="cen-bottom">
+                <div class="title">就业率分布图</div>
+                <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                <img src="/static/img/bj-4.png" alt="" class="bj-4">
+                <div id="echarts_3" class="charts"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+</body>
+<script src="/static/js/jquery-2.1.1.min.js"></script>
+<script src="/static/js/echarts.min.js"></script>
+<script src="/static/js/china.js"></script>
+<script src="/static/js/zhuanye.js"></script>
+<script src="/static/js/layer/layui.js" charset="utf-8"></script>
+</html>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>河南省大学生就业分析可视化</title>
+    <link rel="stylesheet" href="/static/css/common.css">
+    <link rel="stylesheet" href="/static/css/yuce.css">
+    <link rel="stylesheet" href="/static/css/tips.css">
+
+    <style>
+        .selectS{
+            margin-top: 20px;
+            margin-left: 20px;
+        }
+        .selectS > input{
+            height: 40px;
+            width: 150px;
+            top: 30px;
+            left: 50px;
+            margin-left: 10px;
+            background-color: rgb(255,255,255);
+            font-size: 20px;
+        }
+        .selectS > select{
+            height: 40px;
+            width: 150px;
+            top: 30px;
+            left: 50px;
+            background-color: rgba(0.1, 0.1, 0.1, 0.1);
+            color: beige;
+        }
+        .selectS > select > option{
+            color: rgba(253, 242, 255, 0.95);
+            background-color: rgb(0, 193, 179);
+        !important;
+        }
+        .selectS > button{
+            color: #000000;
+            height: 40px;
+            width: 80px;
+            background-color: rgb(0, 193, 179);
+            margin-left: 10px;
+            cursor:pointer;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+<div class="data">
+
+    <div class="data-title">
+         <h1 style="color: #00C1B3; font-size: 50px" align="center">河南省大学生就业数据分析</h1>
+        <div class="title-left fl"></div>
+
+        <div class="title-right fr"></div>
+    </div>
+    <div class="data-content">
+        <div class="con-left fl">
+            <div class="left-top">
+                <div class="info">
+                    <div class="info-title">导航栏</div>
+                    <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                    <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                    <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                    <img src="/static/img/bj-4.png" alt="" class="bj-4">
+                    <div class="info-main">
+                        <div class="info-1">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-1.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../index2">首页</a></p>
+                            </div>
+                        </div>
+                        <div class="info-2">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-2.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../xueyuan">学院数据详情</a></p>
+                            </div>
+                        </div>
+                        <div class="info-3">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-3.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../zhuanye">专业数据详情</a></p>
+                            </div>
+                        </div>
+                        <div class="info-4">
+                            <div class="info-img fl">
+                                <img src="/static/img/info-img-4.png" alt="">
+                            </div>
+                            <div class="info-text fl">
+                                <p></p>
+                                <p><a href="../hangye">行业详情</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="top-bottom">
+                    <div class="title">温馨提示</div>
+                    <p id="tips" class="tips"></p>
+                    <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                    <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                    <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                    <img src="/static/img/bj-4.png" alt="" class="bj-4">
+                </div>
+            </div>
+        </div>
+        <div class="con-center fl">
+            <div class="cen-top">
+                <div class="title">就业去向比例预测</div>
+                <div class="selectS">
+                    <select id="city" name="city">
+                        <option value="henan">请选择去向省市类型</option>
+                        <option value="henan">河南省</option>
+                        <option value="oneline">一线省市</option>
+                        <option value="other">其他城市</option>
+                    </select>
+                    <input type="text" id="bili" name="bili" placeholder="0.XXXX">
+                    <button id="cityyuce" name="cityyuce" onclick="cityyuce()"> 预测 </button>
+                    <div class="title" style="margin-top: 20px">预测结果：</div>
+                    </br>
+                    <p id="resule1" class="resulttips"></p>
+                </div>
+                <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                <img src="/static/img/bj-4.png" alt="" class="bj-4">
+            </div>
+            <div class="cen-bottom">
+                <div class="title">就业率预测</div>
+                <div class="selectS">
+                    <select id="city3" name="city">
+                        <option value="henan">请选择去向省市类型</option>
+                        <option value="henan">河南省</option>
+                        <option value="oneline">一线省市</option>
+                        <option value="other">其他城市</option>
+                    </select>
+                    <select id="hot" name="hot">
+                        <option value="6">请选择专业热度</option>
+                        <option value="6">热门专业</option>
+                        <option value="0">一般专业</option>
+                        <option value="-5">比较冷门</option>
+                        <option value="-15">特别冷门</option>
+                    </select>
+                    <!--<input type="text" id="XXX" name="" placeholder="请输入绩点">-->
+                    <button id="XXXX" name="" onclick="jiuyelvyuce()"> 预测 </button>
+                    <div class="title" style="margin-top: 20px">预测结果：</div>
+                    </br>
+                    <p id="resule2" class="resulttips"></p>
+
+                </div>
+                <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                <img src="/static/img/bj-4.png" alt="" class="bj-4">
+            </div>
+        </div>
+        <div class="con-right fr">
+            <div class="right-top">
+                <div class="title">薪资预测</div>
+                <div class="selectS">
+                    <select id="city2" name="city">
+                        <option value="300">请选择去向省市类型</option>
+                        <option value="300">一线省市</option>
+                        <option value="200">二线省市</option>
+                        <option value="150">三线省市</option>
+                        <option value="120">四线省市</option>
+                        <option value="100">五线省市</option>
+                    </select>
+<!--                    <input type="text" id="GPA" name="GPA" placeholder="请输入绩点">-->
+                    <button id="xinziyuce" name="xinziyuce" onclick="xinziyuce()"> 预测 </button>
+                    <div class="title" style="margin-top: 20px">预测结果：</div>
+                    </br>
+                    <p id="resule3" class="resulttips"></p>
+                </div>
+                <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                <img src="/static/img/bj-4.png" alt="" class="bj-4">
+            </div>
+            <div class="right-center">
+                <div class="title">综合预测</div>
+                <div class="selectS">
+                    <select id="city4" name="city">
+                        <option value="henan">请选择去向省市类型</option>
+                        <option value="henan">河南省</option>
+                        <option value="oneline">一线省市</option>
+                        <option value="other">其他城市</option>
+                    </select>
+                    <select id="hot4" name="hot">
+                        <option value="6">请选择专业热度</option>
+                        <option value="6">热门专业</option>
+                        <option value="0">一般专业</option>
+                        <option value="-5">比较冷门</option>
+                        <option value="-15">特别冷门</option>
+                    </select>
+                    <input type="text" id="bili4" name="bili4" placeholder="请输入生源比例">
+                    <!--<input type="text" id="2" name="" placeholder="请输入GPA">
+                    <input type="text" id="3" name="" placeholder="请输入专业">
+                    <input type="text" id="4" name="" placeholder="请输入论文">-->
+                    <button id="zongheyuce" name="zongheyuce" onclick="zongheyuce()"> 预测 </button>
+                    <div class="title" style="margin-top: 20px">预测结果：</div>
+                    </br>
+                    <p id="resule4" class="resulttips"></p>
+                </div>
+                <img src="/static/img/bj-1.png" alt="" class="bj-1">
+                <img src="/static/img/bj-2.png" alt="" class="bj-2">
+                <img src="/static/img/bj-3.png" alt="" class="bj-3">
+                <img src="/static/img/bj-4.png" alt="" class="bj-4">
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+<script src="/static/js/jquery-2.1.1.min.js"></script>
+<script src="/static/js/echarts.min.js"></script>
+<script src="/static/js/china.js"></script>
+<script src="/static/js/yuce.js"></script>
+</html>

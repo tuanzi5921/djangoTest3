@@ -1,0 +1,72 @@
+[
+  {
+    "name": "IT",
+    "value": 573,
+    "bili": 0
+  },
+  {
+    "name": "制造业",
+    "value": 1571,
+    "bili": 0
+  },
+  {
+    "name": "批发和零售业",
+    "value": 1264,
+    "bili": 0
+  },
+  {
+    "name": "建筑业",
+    "value": 1202,
+    "bili": 0
+  },
+  {
+    "name": "文娱",
+    "value": 202,
+    "bili": 0
+  },
+  {
+    "name": "教育",
+    "value": 143,
+    "bili": 0
+  },
+  {
+    "name": "物流",
+    "value": 113,
+    "bili": 0
+  },
+  {
+    "name": "科研",
+    "value": 88,
+    "bili": 0
+  },
+  {
+    "name": "市民服务",
+    "value": 79,
+    "bili": 0
+  },
+  {
+    "name": "水电供应",
+    "value": 74,
+    "bili": 0
+  },
+  {
+    "name": "租赁和商务服务业",
+    "value": 71,
+    "bili": 0
+  },
+  {
+    "name": "金融业",
+    "value": 59,
+    "bili": 0
+  },
+  {
+    "name": "房地产业",
+    "value": 56,
+    "bili": 0
+  },
+  {
+    "name": "其他",
+    "value": 158,
+    "bili": 0
+  }
+]

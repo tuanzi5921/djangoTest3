@@ -1,0 +1,2394 @@
+[
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "机关",
+    "number": 25,
+    "value": 0.0038
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "科研设计单位",
+    "number": 25,
+    "value": 0.0038
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "高等教育单位",
+    "number": 5,
+    "value": 0.0008
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "中初教育单位",
+    "number": 43,
+    "value": 0.0066
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "医疗卫生单位",
+    "number": 12,
+    "value": 0.0018
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "其他事业单位",
+    "number": 40,
+    "value": 0.0061
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "国有企业",
+    "number": 645,
+    "value": 0.0985
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "三资企业",
+    "number": 629,
+    "value": 0.0961
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "艰苦行业企业",
+    "number": 4,
+    "value": 0.0006
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "其他企业",
+    "number": 3675,
+    "value": 0.5612
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "部队",
+    "number": 12,
+    "value": 0.0018
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "国家基层项目",
+    "number": 4,
+    "value": 0.0006
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "地方基层项目",
+    "number": 6,
+    "value": 0.0009
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "农村建制村",
+    "number": 2,
+    "value": 0.0003
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "城镇社区",
+    "number": 2,
+    "value": 0.0003
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "待就业",
+    "number": 557,
+    "value": 0.0851
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "不就业拟升学",
+    "number": 84,
+    "value": 0.0128
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "其他暂不就业",
+    "number": 2,
+    "value": 0.0003
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "自主创业",
+    "number": 14,
+    "value": 0.0021
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "自由职业",
+    "number": 1,
+    "value": 0.0002
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "升学",
+    "number": 646,
+    "value": 0.0987
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2019,
+    "name": "出国、出境",
+    "number": 115,
+    "value": 0.0176
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "机关",
+    "number": 31,
+    "value": 0.0047
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "科研设计单位",
+    "number": 43,
+    "value": 0.0065
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "高等教育单位",
+    "number": 16,
+    "value": 0.0024
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "中初教育单位",
+    "number": 44,
+    "value": 0.0067
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "医疗卫生单位",
+    "number": 12,
+    "value": 0.0018
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "其他事业单位",
+    "number": 64,
+    "value": 0.0097
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "国有企业",
+    "number": 460,
+    "value": 0.0697
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "三资企业",
+    "number": 537,
+    "value": 0.0814
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "艰苦行业企业",
+    "number": 7,
+    "value": 0.0011
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "其他企业",
+    "number": 4381,
+    "value": 0.6643
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "部队",
+    "number": 7,
+    "value": 0.0011
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "国家基层项目",
+    "number": 8,
+    "value": 0.0012
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "地方基层项目",
+    "number": 4,
+    "value": 0.0006
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "城镇社区",
+    "number": 4,
+    "value": 0.0006
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "待就业",
+    "number": 297,
+    "value": 0.0450
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "不就业拟升学",
+    "number": 53,
+    "value": 0.0080
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "其他暂不就业",
+    "number": 10,
+    "value": 0.0015
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "自主创业",
+    "number": 5,
+    "value": 0.0008
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "自由职业",
+    "number": 2,
+    "value": 0.0003
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "升学",
+    "number": 553,
+    "value": 0.0839
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2018,
+    "name": "出国、出境",
+    "number": 57,
+    "value": 0.0086
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "机关",
+    "number": 34,
+    "value": 0.0052
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "科研设计单位",
+    "number": 13,
+    "value": 0.0020
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "高等教育单位",
+    "number": 6,
+    "value": 0.0009
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "中初教育单位",
+    "number": 24,
+    "value": 0.0037
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "医疗卫生单位",
+    "number": 10,
+    "value": 0.0015
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "艰苦事业单位",
+    "number": 2,
+    "value": 0.0003
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "其他事业单位",
+    "number": 25,
+    "value": 0.0039
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "国有企业",
+    "number": 352,
+    "value": 0.0542
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "三资企业",
+    "number": 461,
+    "value": 0.0710
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "艰苦行业企业",
+    "number": 4,
+    "value": 0.0006
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "其他企业",
+    "number": 4394,
+    "value": 0.6767
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "部队",
+    "number": 12,
+    "value": 0.0018
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "国家基层项目",
+    "number": 8,
+    "value": 0.0012
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "地方基层项目",
+    "number": 6,
+    "value": 0.0009
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "农村建制村",
+    "number": 2,
+    "value": 0.0003
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "城镇社区",
+    "number": 9,
+    "value": 0.0014
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "待就业",
+    "number": 296,
+    "value": 0.0456
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "不就业拟升学",
+    "number": 12,
+    "value": 0.0018
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "自主创业",
+    "number": 192,
+    "value": 0.0296
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "升学",
+    "number": 570,
+    "value": 0.0878
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2017,
+    "name": "出国、出境",
+    "number": 61,
+    "value": 0.0094
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "name": "机关事业单位",
+    "number": 62,
+    "value": 0.0098
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "name": "国有企业",
+    "number": 243,
+    "value": 0.0385
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "name": "国家、地方基层项目",
+    "number": 7,
+    "value": 0.0011
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "name": "升学及出国出境",
+    "number": 534,
+    "value": 0.0846
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "name": "其他企业",
+    "number": 5170,
+    "value": 0.8189
+  },
+  {
+    "school": "郑州轻工业大学",
+    "school_code": "zzuli",
+    "year": 2015,
+    "name": "待就业",
+    "number": 297,
+    "value": 0.0470
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "工程技术人员",
+    "number": 297,
+    "value": 0.2573
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "其他人员",
+    "number": 182,
+    "value": 0.1573
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "其他专业技术人员",
+    "number": 165,
+    "value": 0.1430
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "办事人员和有关人员",
+    "number": 120,
+    "value": 0.1041
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "卫生专业技术人员",
+    "number": 87,
+    "value": 0.0755
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "商业和服务业人员",
+    "number": 80,
+    "value": 0.0691
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "教学人员",
+    "number": 59,
+    "value": 0.0508
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "金融业务人员",
+    "number": 27,
+    "value": 0.0230
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "经济业务人员",
+    "number": 26,
+    "value": 0.0222
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "科学研究人员",
+    "number": 23,
+    "value": 0.0199
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "公务员",
+    "number": 19,
+    "value": 0.0167
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "生产和运输设备操作人员",
+    "number": 17,
+    "value": 0.0143
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "农林牧渔业技术人员",
+    "number": 16,
+    "value": 0.0135
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "文学艺术工作者",
+    "number": 126,
+    "value": 0.1095
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "体育工作人员",
+    "number": 126,
+    "value": 0.1095
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "法律专业人员",
+    "number": 8,
+    "value": 0.0071
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "新闻出版和文化工作人员",
+    "number": 5,
+    "value": 0.0040
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2018,
+    "name": "军人",
+    "number": 4,
+    "value": 0.0032
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "工程技术人员",
+    "number": 819,
+    "value": 0.2776
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "其他人员",
+    "number": 523,
+    "value": 0.1773
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "商业和服务业人员",
+    "number": 308,
+    "value": 0.1044
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "金融业务人员",
+    "number": 274,
+    "value": 0.0929
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "其他专业技术人员",
+    "number": 259,
+    "value": 0.0878
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "办事人员和有关人员",
+    "number": 184,
+    "value": 0.0624
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "经济业务人员",
+    "number": 179,
+    "value": 0.0607
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "教学人员",
+    "number": 114,
+    "value": 0.0386
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "公务员",
+    "number": 60,
+    "value": 0.0203
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "农林牧渔业技术人员",
+    "number": 59,
+    "value": 0.0200
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "文学艺术工作者",
+    "number": 45,
+    "value": 0.0153
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "科学研究人员",
+    "number": 33,
+    "value": 0.0112
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "成品和运输设备操作人员",
+    "number": 27,
+    "value": 0.0092
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "法律专业人员",
+    "number": 22,
+    "value": 0.0075
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "新闻出版和文化工作人员",
+    "number": 17,
+    "value": 0.0058
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "体育工作人员",
+    "number": 13,
+    "value": 0.0044
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "卫生专业技术人员",
+    "number": 12,
+    "value": 0.0041
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2017,
+    "name": "军人",
+    "number": 2,
+    "value": 0.0007
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "签订劳动合同形式就业",
+    "number": 944,
+    "value": 0.2987
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "签就业协议形式就业",
+    "number": 868,
+    "value": 0.2747
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "升学",
+    "number": 852,
+    "value": 0.2696
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "其他录用形式就业",
+    "number": 188,
+    "value": 0.0595
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "待就业",
+    "number": 171,
+    "value": 0.0541
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "自由职业",
+    "number": 52,
+    "value": 0.0165
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "出国、出境",
+    "number": 27,
+    "value": 0.0085
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "自主创业",
+    "number": 21,
+    "value": 0.0066
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "国家基层项目",
+    "number": 20,
+    "value": 0.0064
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "地方基层项目",
+    "number": 12,
+    "value": 0.0038
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "应征义务兵",
+    "number": 4,
+    "value": 0.0013
+  },
+  {
+    "school": "河南科技大学",
+    "school_code": "haust",
+    "year": 2015,
+    "name": "科研助理",
+    "number": 1,
+    "value": 0.0004
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "办事人员和有关人员",
+    "number": 2323,
+    "value": 0.3416
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "教学人员",
+    "number": 1630,
+    "value": 0.2397
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "其他人员",
+    "number": 1236,
+    "value": 0.1818
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "卫生专业技术人员",
+    "number": 435,
+    "value": 0.0639
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "工程技术人员",
+    "number": 297,
+    "value": 0.0437
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "其他专业技术人员",
+    "number": 237,
+    "value": 0.0348
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "商业和服务业人员",
+    "number": 230,
+    "value": 0.0338
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "金融业务人员",
+    "number": 229,
+    "value": 0.0337
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "经济业务人员",
+    "number": 46,
+    "value": 0.0067
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "公务员",
+    "number": 42,
+    "value": 0.0062
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "法律专业人员",
+    "number": 31,
+    "value": 0.0045
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "科学研究人员",
+    "number": 25,
+    "value": 0.0037
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "新闻出版和文化工作人员",
+    "number": 17,
+    "value": 0.0025
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "军人",
+    "number": 14,
+    "value": 0.0021
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "生产和运输设备操作人员",
+    "number": 5,
+    "value": 0.0008
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "文学艺术工作人员",
+    "number": 1,
+    "value": 0.0001
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2019,
+    "name": "农林牧渔业技术人员",
+    "number": 1,
+    "value": 0.0001
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "教学人员",
+    "number": 2009,
+    "value": 0.2511
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "工程技术人员",
+    "number": 1306,
+    "value": 0.1632
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "其他人员",
+    "number": 762,
+    "value": 0.0952
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "金融业务人员",
+    "number": 599,
+    "value": 0.0749
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "其他专业技术人员",
+    "number": 486,
+    "value": 0.0608
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "公务员",
+    "number": 454,
+    "value": 0.0567
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "商业和服务业人员",
+    "number": 415,
+    "value": 0.0519
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "办事人员和有关人员",
+    "number": 393,
+    "value": 0.0491
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "卫生专业技术人员",
+    "number": 387,
+    "value": 0.0484
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "新闻出版和文化工作人员",
+    "number": 280,
+    "value": 0.0350
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "经济业务人员",
+    "number": 255,
+    "value": 0.0319
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "科学研究人员",
+    "number": 231,
+    "value": 0.0289
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "法律专业人员",
+    "number": 129,
+    "value": 0.0161
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "文学艺术工作人员",
+    "number": 129,
+    "value": 0.0161
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "生产和运输设备操作人员",
+    "number": 63,
+    "value": 0.0079
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "体育工作人员",
+    "number": 61,
+    "value": 0.0076
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "军人",
+    "number": 27,
+    "value": 0.0034
+  },
+  {
+    "school": "河南大学",
+    "school_code": "heau",
+    "year": 2018,
+    "name": "农林牧渔业技术人员",
+    "number": 14,
+    "value": 0.0017
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "工程技术人员",
+    "number": 3418,
+    "value": 0.4439
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "其他专业技术人员",
+    "number": 812,
+    "value": 0.1054
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "办事人员和有关人员",
+    "number": 427,
+    "value": 0.0554
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "教学人员",
+    "number": 157,
+    "value": 0.0204
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "商业和服务业人员",
+    "number": 193,
+    "value": 0.0251
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "军人",
+    "number": 176,
+    "value": 0.0229
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "卫生专业技术人员",
+    "number": 74,
+    "value": 0.0096
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "金融业务人员",
+    "number": 125,
+    "value": 0.0162
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "科学研究人员",
+    "number": 59,
+    "value": 0.0076
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "经济业务人员",
+    "number": 52,
+    "value": 0.0067
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2018,
+    "name": "其他",
+    "number": 2208,
+    "value": 0.2868
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "工程技术人员",
+    "number": 3573,
+    "value": 0.4735
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "其他专业技术人员",
+    "number": 1210,
+    "value": 0.1604
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "办事人员和有关人员",
+    "number": 161,
+    "value": 0.0214
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "卫生专业技术人员",
+    "number": 88,
+    "value": 0.0116
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "商业和服务业人员",
+    "number": 134,
+    "value": 0.0177
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "教学人员",
+    "number": 95,
+    "value": 0.0126
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "金融业务人员",
+    "number": 120,
+    "value": 0.0159
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "科学研究人员",
+    "number": 69,
+    "value": 0.0092
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "经济业务人员",
+    "number": 55,
+    "value": 0.0073
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "公务员",
+    "number": 18,
+    "value": 0.0024
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2017,
+    "name": "其他",
+    "number": 2022,
+    "value": 0.2680
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.4185
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "其他人员",
+    "number": "",
+    "value": 0.1237
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "公务员",
+    "number": "",
+    "value": 0.0667
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "其他专业技术人员",
+    "number": "",
+    "value": 0.0631
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0477
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "金融业务人员",
+    "number": "",
+    "value": 0.0425
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "办事人员和有关人员",
+    "number": "",
+    "value": 0.0372
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "科学研究人员",
+    "number": "",
+    "value": 0.0356
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0328
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "商业和服务业人员",
+    "number": "",
+    "value": 0.0295
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "生产和运输设备操作人员.",
+    "number": "",
+    "value": 0.0214
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.0198
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "军人",
+    "number": "",
+    "value": 0.0166
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "农林牧渔业技术人员",
+    "number": "",
+    "value": 0.0166
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "文学艺术工作者",
+    "number": "",
+    "value": 0.0093
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "体育工作人员",
+    "number": "",
+    "value": 0.0077
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "新闻出版和文化工作人员",
+    "number": "",
+    "value": 0.0061
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2016,
+    "name": "法律专业人员",
+    "number": "",
+    "value": 0.0052
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "社会服务人员",
+    "number": "",
+    "value": 0.0325
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0348
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "购销人员",
+    "number": "",
+    "value": 0.0597
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "金融业务人员",
+    "number": "",
+    "value": 0.0634
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "行政办公人员",
+    "number": "",
+    "value": 0.0756
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0999
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "企业管理人员",
+    "number": "",
+    "value": 0.1523
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "勘探及矿物开采业人员",
+    "number": "",
+    "value": 0.2015
+  },
+  {
+    "school": "河南理工大学",
+    "school_code": "hpu",
+    "year": 2015,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.2912
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "农林牧渔业技术人员",
+    "number": "",
+    "value": 0.0007
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "体育工作人员",
+    "number": "",
+    "value": 0.0014
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "军人",
+    "number": "",
+    "value": 0.0021
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "法律专业人员",
+    "number": "",
+    "value": 0.0098
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "新闻出版和文化工作人员",
+    "number": "",
+    "value": 0.0112
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "生产和运输设备操作人员",
+    "number": "",
+    "value": 0.0119
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "文学艺术工作者",
+    "number": "",
+    "value": 0.0140
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "科学研究人员",
+    "number": "",
+    "value": 0.0161
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "公务员",
+    "number": "",
+    "value": 0.0280
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0301
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "办事人员和有关人员",
+    "number": "",
+    "value": 0.0357
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "商业和服务业人员",
+    "number": "",
+    "value": 0.0490
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "金融业务人员",
+    "number": "",
+    "value": 0.0503
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0888
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "其他人员",
+    "number": "",
+    "value": 0.0937
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "其他专业技术人员",
+    "number": "",
+    "value": 0.1035
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.1601
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2019,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.2937
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.3211
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "其他人员",
+    "number": "",
+    "value": 0.1555
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0909
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "其他专业技术人员",
+    "number": "",
+    "value": 0.0847
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.0696
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "金融业务人员",
+    "number": "",
+    "value": 0.0561
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "科学研究人员",
+    "number": "",
+    "value": 0.0437
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "商业和服务业人员",
+    "number": "",
+    "value": 0.0381
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "办事人员和有关人员",
+    "number": "",
+    "value": 0.0285
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "文学艺术工作人员",
+    "number": "",
+    "value": 0.0273
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "公务员",
+    "number": "",
+    "value": 0.0256
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "新闻出版和文化工作人员",
+    "number": "",
+    "value": 0.0200
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0182
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "法律专业人员",
+    "number": "",
+    "value": 0.0062
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "农林牧渔业技术人员",
+    "number": "",
+    "value": 0.0058
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "生产和运输设备操作人员",
+    "number": "",
+    "value": 0.0041
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "体育工作人员",
+    "number": "",
+    "value": 0.0026
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2017,
+    "name": "军人",
+    "number": "",
+    "value": 0.0021
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "行政办公人员.",
+    "number": "",
+    "value": 0.0122
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0247
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0276
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "金融业务人员.",
+    "number": "",
+    "value": 0.0385
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "医疗卫生辅助服务人员",
+    "number": "",
+    "value": 0.0839
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "科研人员",
+    "number": "",
+    "value": 0.0884
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.2156
+  },
+  {
+    "school": "郑州大学",
+    "school_code": "zzu",
+    "year": 2015,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.4143
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "其他人员",
+    "number": "",
+    "value": 0.2274
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.1645
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "农林牧渔业技术人员",
+    "number": "",
+    "value": 0.1024
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "其他专业技术人员",
+    "number": "",
+    "value": 0.0827
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "教学人员.",
+    "number": "",
+    "value": 0.0818
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "商业和服务业人员",
+    "number": "",
+    "value": 0.0742
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0423
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "金融业务人员.",
+    "number": "",
+    "value": 0.0414
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "科学研究人员",
+    "number": "",
+    "value": 0.0395
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "办事人员和有关人员.",
+    "number": "",
+    "value": 0.0376
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "公务员",
+    "number": "",
+    "value": 0.0367
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.0235
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "生产和运输设备操作人员",
+    "number": "",
+    "value": 0.0150
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "文学艺术工作者",
+    "number": "",
+    "value": 0.0094
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "法律专业人员",
+    "number": "",
+    "value": 0.0094
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "新闻出版和文化工作人员",
+    "number": "",
+    "value": 0.0066
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "体育工作人员",
+    "number": "",
+    "value": 0.0028
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2019,
+    "name": "军人",
+    "number": "",
+    "value": 0.0028
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "其他人员",
+    "number": "",
+    "value": 0.1201
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "农林牧渔业技术人员",
+    "number": "",
+    "value": 0.1125
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "商业和服务业人员",
+    "number": "",
+    "value": 0.1089
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0999
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "金融业务人员",
+    "number": "",
+    "value": 0.0926
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "其他专业技术人员",
+    "number": "",
+    "value": 0.0878
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0835
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "公务员.",
+    "number": "",
+    "value": 0.0775
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "科学研究人员",
+    "number": "",
+    "value": 0.0520
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.0490
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "办事人员和有关人员",
+    "number": "",
+    "value": 0.0369
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "体育工作人员.",
+    "number": "",
+    "value": 0.0284
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "法律专业人员",
+    "number": "",
+    "value": 0.0145
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "生产和运输设备操作人员",
+    "number": "",
+    "value": 0.0133
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "新闻出版和文化工作人员",
+    "number": "",
+    "value": 0.0091
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "文学艺术工作者",
+    "number": "",
+    "value": 0.0073
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2018,
+    "name": "军人",
+    "number": "",
+    "value": 0.0067
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "其他人员",
+    "number": "",
+    "value": 0.3696
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "工程技术人员",
+    "number": "",
+    "value": 0.1088
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "教学人员",
+    "number": "",
+    "value": 0.0683
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "其他专业技术人员",
+    "number": "",
+    "value": 0.0631
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "农林牧渔业技术人员",
+    "number": "",
+    "value": 0.0579
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "商业和服务业人员",
+    "number": "",
+    "value": 0.0551
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "经济业务人员",
+    "number": "",
+    "value": 0.0499
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "办事人员和有关人员",
+    "number": "",
+    "value": 0.0494
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "金融业务人员",
+    "number": "",
+    "value": 0.0452
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "科学研究人员",
+    "number": "",
+    "value": 0.0405
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "公务员",
+    "number": "",
+    "value": 0.0226
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "卫生专业技术人员",
+    "number": "",
+    "value": 0.0202
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "法律专业人员",
+    "number": "",
+    "value": 0.0165
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "体育工作人员",
+    "number": "",
+    "value": 0.0094
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "文学艺术工作者",
+    "number": "",
+    "value": 0.0071
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "新闻出版和文化工作人员",
+    "number": "",
+    "value": 0.0066
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "成品和运输设备操作人员",
+    "number": "",
+    "value": 0.0052
+  },
+  {
+    "school": "河南农业大学",
+    "school_code": "henau",
+    "year": 2017,
+    "name": "军人",
+    "number": "",
+    "value": 0.0047
+  }
+]
